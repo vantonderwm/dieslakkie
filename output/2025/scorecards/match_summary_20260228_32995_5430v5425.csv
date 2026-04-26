@@ -1,0 +1,2 @@
+MATCH_ID,CLUB_ID,LEAGUE_NAME,LEAGUE_YEAR,MATCH_TYPE,MATCH_DATE,MATCH_DATE_KEY,TEAM_ONE,TEAM_ONE_ID,TEAM_TWO,TEAM_TWO_ID,TEAM_ONE_URL,TEAM_TWO_URL,RESULT,SOURCE_URL
+8553,32995,2025/2026 TITANS SECOND LEAGUE,2025,League,28/02/2026,20260228,TUKS 5,5430,CBCOB 3,5425,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5430&clubId=32995,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5425&clubId=32995,Abandoned.,https://cricclubs.com/TitansCricket/fullScorecard.do?matchId=8553&clubId=32995

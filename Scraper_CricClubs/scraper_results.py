@@ -26,6 +26,11 @@ def build_absolute_url(href):
     return urljoin(BASE_URL, href)
 
 
+def extract_query_value(url, key):
+    match = re.search(rf"[?&]{key}=([^&]+)", url)
+    return match.group(1) if match else ""
+
+
 def split_score_summary(score_summary):
     parts = re.findall(r"([^:]+):\s*([0-9]+/[0-9]+\([0-9.]+\))", score_summary)
     parsed = {
@@ -68,18 +73,23 @@ def parse_results_from_html(html):
 
         score_summary_raw = cells[6].get_text(" ", strip=True)
         score_summary_split = split_score_summary(score_summary_raw)
+        team_one_url = build_absolute_url(team_one_link["href"] if team_one_link else "")
+        team_two_url = build_absolute_url(team_two_link["href"] if team_two_link else "")
+        scorecard_url = build_absolute_url(scorecard_link["href"] if scorecard_link else "")
 
         row_data = {
             "SNO": cells[0].get_text(" ", strip=True),
             "MATCH_TYPE": cells[1].get_text(" ", strip=True),
             "DATE": cells[2].get_text(" ", strip=True),
             "TEAM_ONE": cells[3].get_text(" ", strip=True),
-            "TEAM_ONE_URL": build_absolute_url(team_one_link["href"] if team_one_link else ""),
+            "TEAM_ONE_URL": team_one_url,
+            "TEAM_ONE_CLUB_ID": extract_query_value(team_one_url, "clubId"),
             "TEAM_TWO": cells[4].get_text(" ", strip=True),
-            "TEAM_TWO_URL": build_absolute_url(team_two_link["href"] if team_two_link else ""),
+            "TEAM_TWO_URL": team_two_url,
+            "TEAM_TWO_CLUB_ID": extract_query_value(team_two_url, "clubId"),
             "RESULT": cells[5].get_text(" ", strip=True),
             "SCORES_SUMMARY_RAW": score_summary_raw,
-            "SCORECARD_URL": build_absolute_url(scorecard_link["href"] if scorecard_link else ""),
+            "SCORECARD_URL": scorecard_url,
             "POINTS": cells[7].get_text(" ", strip=True),
         }
         row_data.update(score_summary_split)

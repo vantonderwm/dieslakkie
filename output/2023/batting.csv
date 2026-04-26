@@ -1,0 +1,703 @@
+SNO,PLAYER,TEAM_IMG,BLANK,TEAM,MAT,INS,NO,RUNS,BALLS,AVG,SR,HS,100s,75s,50s,25s,0s,6s,4s,League Name
+1,Heinrich Bisschoff,PHSOB 3,,PHSOB 3,5,5,0,461,438,92.20,105.25,152,2,2,2,0,0,17,44,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+2,Aerton Helena,TUKS 5,,TUKS 5,11,11,1,354,320,35.40,110.62,128,1,0,1,5,1,4,45,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+3,Christian Strydom,TUKS 5,,TUKS 5,13,12,0,335,447,27.92,74.94,77,0,1,2,2,1,6,34,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+4,Reinhardt Hamman,SINOVILLE 4,,SINOVILLE 4,3,3,1,315,187,157.50,168.45,141,2,0,0,1,0,11,38,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+5,Nick Brook,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,5,5,1,296,331,74.00,89.43,121,1,0,2,1,0,11,26,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+6,Divan Cilliers,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,13,13,2,293,292,26.64,100.34,58,0,0,1,3,1,13,34,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+7,Matthew Thurbon,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,12,11,0,286,309,26.00,92.56,74,0,0,1,3,0,3,31,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+8,Riccardo Oosthuizen,TUKS 5,,TUKS 5,7,7,0,248,263,35.43,94.30,88,0,1,2,2,1,2,36,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+9,Charl Prinsloo,TUT 3,,TUT 3,5,5,1,242,351,60.50,68.95,79,0,1,2,2,0,2,34,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+10,Marcel Cilliers,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,13,12,2,232,282,23.20,82.27,53,0,0,1,3,2,7,23,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+11,Frits Snyman,TUKS 5,,TUKS 5,11,11,0,217,370,19.73,58.65,58,0,0,1,3,1,0,22,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+12,Johanco Faihst,TUKS 5,,TUKS 5,5,5,2,207,225,69.00,92.00,115,1,0,1,0,0,7,20,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+13,Stefan Grobler,TUT 3,,TUT 3,7,7,1,202,150,33.67,134.67,106,1,0,1,1,2,15,13,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+14,Johan Pretorius,TUKS 5,,TUKS 5,6,6,0,196,285,32.67,68.77,73,0,0,1,3,0,4,17,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+15,Brad Goss,PHSOB 3,,PHSOB 3,5,5,1,191,167,47.75,114.37,88,0,1,2,1,0,3,29,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+16,Tiaan Engelbrecht,TUKS 5,,TUKS 5,13,12,1,191,210,17.36,90.95,64,0,0,2,0,3,3,16,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+17,Henco Murphy,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,8,8,2,186,263,31.00,70.72,52,0,0,1,3,0,6,14,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+18,Gerhard De Bruin,TUKS 5,,TUKS 5,12,11,2,174,213,19.33,81.69,53,0,0,1,2,3,5,15,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+19,Jason Weiss,SINOVILLE 4,,SINOVILLE 4,1,1,1,168,64,--,262.50,168,1,0,0,0,0,13,17,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+20,Gerhard Swanepoel,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,9,8,1,165,163,23.57,101.23,51,0,0,1,2,0,7,13,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+21,Martin Van Tonder,TUKS 5,,TUKS 5,16,15,2,164,200,12.62,82.00,38,0,0,0,2,1,0,22,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+22,Pieter Pretorius,HARLEQUINS 3,,HARLEQUINS 3,3,3,2,163,148,163.00,110.14,112,1,0,1,0,0,4,15,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+23,Duan St Arnaud,PHSOB 3,,PHSOB 3,4,4,0,160,179,40.00,89.39,104,1,0,1,0,2,8,17,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+24,Quintin Pretorius,SINOVILLE 3,,SINOVILLE 3,2,2,1,155,105,155.00,147.62,87,0,1,2,0,0,9,16,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+25,Ruan Ebersohn,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,11,11,3,144,247,18.00,58.30,38,0,0,0,3,2,0,15,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+26,Nico de Bruyn,TUKS 5,,TUKS 5,12,12,0,141,261,11.75,54.02,25,0,0,0,1,1,3,14,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+27,Brent Hartley,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,13,13,2,133,266,12.09,50.00,43,0,0,0,1,1,0,17,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+28,Jeandre Roux,TUT 3,,TUT 3,5,5,1,132,192,33.00,68.75,76,0,1,1,1,2,1,10,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+29,Gunter Geyser,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,2,2,0,129,120,64.50,107.50,65,0,0,2,0,0,9,13,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+30,Ruan Brenner,PHSOB 3,,PHSOB 3,4,3,1,122,127,61.00,96.06,54,0,0,1,2,0,6,14,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+31,Ab Rasool,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,4,4,0,121,156,30.25,77.56,54,0,0,1,1,1,2,13,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+32,Nico Minnaar,TUT 3,,TUT 3,5,5,0,120,89,24.00,134.83,40,0,0,0,2,0,8,13,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+33,Rigardt Saaiman,CBCOB 3,,CBCOB 3,7,6,0,116,193,19.33,60.10,35,0,0,0,2,0,0,11,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+34,Christoff  Pompie Helm,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,13,13,2,113,276,10.27,40.94,27,0,0,0,2,3,0,11,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+35,Kyle Kunneke,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,14,8,8,110,149,--,73.83,44,0,0,0,2,0,1,7,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+36,Pieter Janse van Rensburg,SINOVILLE 3,,SINOVILLE 3,1,1,0,109,97,109.00,112.37,109,1,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+37,Tiaan Lotter,SINOVILLE 3,,SINOVILLE 3,5,5,0,109,107,21.80,101.87,48,0,0,0,2,0,4,9,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+38,Jacques Van Rooyen,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,8,7,2,107,105,21.40,101.90,61,0,0,1,0,1,7,7,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+39,Justin Van Bassen,PHSOB 3,,PHSOB 3,9,8,0,106,97,13.25,109.28,36,0,0,0,1,1,3,16,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+40,Bennie Viljoen,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,3,3,0,106,105,35.33,100.95,64,0,0,1,1,0,1,13,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+41,Dillon Kotze,CBCOB 3,,CBCOB 3,2,2,1,106,155,106.00,68.39,100,1,0,0,0,0,0,18,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+42,Rowan Sweetman,HARLEQUINS 3,,HARLEQUINS 3,2,2,0,104,118,52.00,88.14,63,0,0,1,1,0,3,8,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+43,Zandre Jordaan,SINOVILLE 3,,SINOVILLE 3,1,1,1,103,62,--,166.13,103,1,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+44,Pete Harlequins 3,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,103,120,103.00,85.83,103,1,0,0,0,0,1,14,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+45,Berno Klopper,SINOVILLE 3,,SINOVILLE 3,7,7,2,97,123,19.40,78.86,24,0,0,0,0,1,1,7,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+46,Lessego Teffo,HARLEQUINS 3,,HARLEQUINS 3,2,2,0,95,89,47.50,106.74,54,0,0,1,1,0,2,12,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+47,Niel Coetzee,TUT 3,,TUT 3,7,7,0,89,172,12.71,51.74,31,0,0,0,2,1,0,10,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+48,Gerbrandt Viviers,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,4,4,0,88,85,22.00,103.53,43,0,0,0,1,0,4,12,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+49,Pippie Kemm,PHSOB 3,,PHSOB 3,2,2,1,87,120,87.00,72.50,58,0,0,1,1,0,1,11,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+50,Jan Verwas,SINOVILLE 3,,SINOVILLE 3,3,3,0,84,80,28.00,105.00,38,0,0,0,2,0,0,5,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+51,Matthew Collins,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,8,6,0,83,91,13.83,91.21,20,0,0,0,0,0,0,10,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+52,Adriaan Venter,CBCOB 3,,CBCOB 3,2,2,0,81,83,40.50,97.59,56,0,0,1,1,0,3,7,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+53,Sam Wearne,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,2,2,0,80,84,40.00,95.24,47,0,0,0,2,0,1,11,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+54,Armin Havenga,CBCOB 3,,CBCOB 3,5,4,0,80,108,20.00,74.07,41,0,0,0,1,1,2,11,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+55,Christo Swanepoel,PHSOB 3,,PHSOB 3,8,6,0,79,138,13.17,57.25,35,0,0,0,1,0,1,10,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+56,JG Adendorff,SINOVILLE 4,,SINOVILLE 4,1,1,0,78,62,78.00,125.81,78,0,1,1,0,0,1,8,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+57,Donovan du Toit,TUKS 5,,TUKS 5,13,11,3,77,120,9.62,64.17,14,0,0,0,0,0,2,6,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+58,Sheldon Meiring,PHSOB 3,,PHSOB 3,4,4,1,76,80,25.33,95.00,48,0,0,0,1,0,2,7,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+59,Christoff van Rooyen,HARLEQUINS 3,,HARLEQUINS 3,1,1,1,76,88,--,86.36,76,0,1,1,0,0,1,5,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+60,Divan Behrens,SINOVILLE 3,,SINOVILLE 3,1,1,0,75,86,75.00,87.21,75,0,1,1,0,0,2,6,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+61,Callen Stephen,PHSOB 3,,PHSOB 3,4,4,1,75,94,25.00,79.79,71,0,0,1,0,2,5,9,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+62,Paul Gouws,CBCOB 3,,CBCOB 3,3,2,0,74,69,37.00,107.25,52,0,0,1,0,0,0,4,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+63,Stefan Strydom,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,6,6,0,74,72,12.33,102.78,30,0,0,0,1,2,0,15,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+64,Dylan Kotze,CBCOB 3,,CBCOB 3,5,5,0,74,107,14.80,69.16,46,0,0,0,1,0,0,11,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+65,Louis van Zyl,CBCOB 3,,CBCOB 3,3,3,1,70,72,35.00,97.22,39,0,0,0,1,0,2,11,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+66,Papi Cbf,CBCOB 3,,CBCOB 3,2,2,0,69,88,34.50,78.41,41,0,0,0,2,0,1,9,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+67,Marco Rudolph,SINOVILLE 4,,SINOVILLE 4,2,2,0,68,75,34.00,90.67,54,0,0,1,0,0,1,2,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+68,Nicolas Conradie,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,2,2,0,67,76,33.50,88.16,38,0,0,0,2,0,2,9,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+69,Jonathan Barwick,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,66,66,66.00,100.00,66,0,0,1,0,0,2,10,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+70,Lafras Jenkins,PHSOB 3,,PHSOB 3,3,3,2,66,114,66.00,57.89,40,0,0,0,1,0,1,9,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+71,Tristan De Klerk,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,5,4,1,62,86,20.67,72.09,38,0,0,0,1,1,4,5,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+72,Niel Britz,SINOVILLE 3,,SINOVILLE 3,1,1,0,60,31,60.00,193.55,60,0,0,1,0,0,1,10,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+73,Dewald Basson,TUT 3,,TUT 3,7,5,2,60,101,20.00,59.41,27,0,0,0,1,0,0,7,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+74,Jacques Van Rooyen,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,4,4,1,59,43,19.67,137.21,34,0,0,0,1,1,5,4,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+75,Bennie Viljoen,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,4,4,0,59,52,14.75,113.46,47,0,0,0,1,1,0,9,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+76,Peter Harold,HARLEQUINS 3,,HARLEQUINS 3,2,2,0,59,61,29.50,96.72,40,0,0,0,1,0,1,6,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+77,Leon Bender,CBCOB 3,,CBCOB 3,4,2,0,58,92,29.00,63.04,45,0,0,0,1,0,0,7,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+78,Clayton Brunsdon,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,5,5,0,58,113,11.60,51.33,19,0,0,0,0,1,0,4,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+79,Willem Sevenster,CBCOB 3,,CBCOB 3,2,2,0,57,35,28.50,162.86,30,0,0,0,2,0,4,5,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+80,Dewan Bohmer,PHSOB 3,,PHSOB 3,4,3,2,57,36,57.00,158.33,40,0,0,0,1,1,4,6,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+81,Gerbrant Vivers,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,2,2,0,56,86,28.00,65.12,29,0,0,0,2,0,1,5,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+82,Emile Van de Merwe,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,4,4,0,55,91,13.75,60.44,24,0,0,0,0,0,0,4,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+83,Leon Tut3,TUT 3,,TUT 3,1,1,0,53,58,53.00,91.38,53,0,0,1,0,0,0,7,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+84,Travis Joshua,HARLEQUINS 3,,HARLEQUINS 3,4,2,1,53,101,53.00,52.48,45,0,0,0,1,0,0,5,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+85,Keaton Steenkamp,SINOVILLE 3,,SINOVILLE 3,5,5,2,52,47,17.33,110.64,14,0,0,0,0,0,2,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+86,Pieter Jansen van Rensburg,SINOVILLE 4,,SINOVILLE 4,1,1,0,51,48,51.00,106.25,51,0,0,1,0,0,1,10,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+87,Ruan Prinsloo,SINOVILLE 4,,SINOVILLE 4,1,1,0,51,48,51.00,106.25,51,0,0,1,0,0,0,4,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+88,Piet Botha,SINOVILLE 3,,SINOVILLE 3,2,2,0,50,102,25.00,49.02,42,0,0,0,1,0,0,6,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+89,Ryan Thurbon,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,6,6,0,50,148,8.33,33.78,14,0,0,0,0,1,0,4,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+90,Steven Meyburgh,PHSOB 3,,PHSOB 3,6,5,0,49,54,9.80,90.74,40,0,0,0,1,2,4,3,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+91,Jaco de Vos,TUKS 5,,TUKS 5,1,1,1,47,30,--,156.67,47,0,0,0,1,0,1,7,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+92,Joshua Isaacs,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,6,6,1,47,60,9.40,78.33,14,0,0,0,0,1,1,3,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+93,Stefan Olivier,TUT 3,,TUT 3,2,2,0,46,39,23.00,117.95,37,0,0,0,1,0,2,6,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+94,Matt Collett,PHSOB 3,,PHSOB 3,3,3,0,46,62,15.33,74.19,35,0,0,0,1,1,0,6,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+95,Manie De Roubiax,SINOVILLE 4,,SINOVILLE 4,2,1,1,46,68,--,67.65,46,0,0,0,1,0,0,7,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+96,Ruben van Vuuren,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,3,3,1,45,57,22.50,78.95,30,0,0,0,1,0,1,4,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+97,Tiaan Lotter,SINOVILLE 4,,SINOVILLE 4,1,1,0,44,31,44.00,141.94,44,0,0,0,1,0,0,7,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+98,Christo Bornman,SINOVILLE 4,,SINOVILLE 4,1,1,0,43,53,43.00,81.13,43,0,0,0,1,0,0,6,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+99,Stefan Strydom,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,2,2,0,42,40,21.00,105.00,24,0,0,0,0,0,1,6,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+100,Walli Vayani,PHSOB 3,,PHSOB 3,2,2,0,42,43,21.00,97.67,36,0,0,0,1,0,3,3,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+101,Marius Bornman,TUKS 5,,TUKS 5,5,5,1,41,27,10.25,151.85,18,0,0,0,0,2,0,9,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+102,Andre Schoombee,SINOVILLE 4,,SINOVILLE 4,4,3,1,41,39,20.50,105.13,19,0,0,0,0,0,1,4,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+103,Erik Van Deventer,TUT 3,,TUT 3,2,2,1,41,60,41.00,68.33,26,0,0,0,1,0,3,2,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+104,Morgan Potgiter,SINOVILLE 4,,SINOVILLE 4,1,1,0,41,74,41.00,55.41,41,0,0,0,1,0,0,6,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+105,Ivan Venter,TUKS 5,,TUKS 5,2,2,0,40,65,20.00,61.54,21,0,0,0,0,0,1,4,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+106,Jared Fourie,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,4,4,0,40,104,10.00,38.46,20,0,0,0,0,1,0,3,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+107,Gunter Geyer,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,3,3,0,39,40,13.00,97.50,19,0,0,0,0,0,0,8,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+108,Richard Williams,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,0,39,41,39.00,95.12,39,0,0,0,1,0,0,3,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+109,Maritz Bezuidenhout,SINOVILLE 4,,SINOVILLE 4,1,1,0,39,51,39.00,76.47,39,0,0,0,1,0,0,2,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+110,Andre Schoombee,SINOVILLE 3,,SINOVILLE 3,2,2,0,39,61,19.50,63.93,36,0,0,0,1,0,2,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+111,Ryan Thorburn,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,3,3,0,39,69,13.00,56.52,20,0,0,0,0,0,0,7,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+112,Albert Myburgh,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,6,4,0,39,100,9.75,39.00,22,0,0,0,0,0,0,4,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+113,Heinrich Hamman,SINOVILLE 4,,SINOVILLE 4,2,2,0,37,36,18.50,102.78,24,0,0,0,0,0,0,7,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+114,Ivan Havenga,CBCOB 3,,CBCOB 3,5,3,1,37,39,18.50,94.87,37,0,0,0,1,1,0,6,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+115,Elandré van den Berg,TUKS 5,,TUKS 5,11,8,5,37,80,12.33,46.25,12,0,0,0,0,0,0,1,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+116,Charl Foxcroft,TUT 3,,TUT 3,6,6,2,36,57,9.00,63.16,24,0,0,0,0,2,0,4,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+117,Reghard Lehman,CBCOB 3,,CBCOB 3,1,1,0,36,75,36.00,48.00,36,0,0,0,1,0,0,2,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+118,Amohelang Sebati,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,7,5,0,36,78,7.20,46.15,12,0,0,0,0,1,2,3,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+119,Deon Van Huysteen,SINOVILLE 4,,SINOVILLE 4,1,1,0,35,41,35.00,85.37,35,0,0,0,1,0,1,3,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+120,Ivan Schoeman,SINOVILLE 3,,SINOVILLE 3,1,1,0,34,27,34.00,125.93,34,0,0,0,1,0,1,5,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+121,Neyko Stiglingh,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,34,31,34.00,109.68,34,0,0,0,1,0,0,6,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+122,Chris van Niekerk,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,8,5,1,34,56,8.50,60.71,12,0,0,0,0,1,0,4,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+123,JP Roets,SINOVILLE 4,,SINOVILLE 4,4,3,1,34,64,17.00,53.12,23,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+124,Donavan Kretschmer,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,3,3,0,34,66,11.33,51.52,34,0,0,0,1,2,0,3,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+125,Yatin Koul,PHSOB 3,,PHSOB 3,1,1,0,33,16,33.00,206.25,33,0,0,0,1,0,1,6,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+126,Zian De Jager,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,0,33,21,33.00,157.14,33,0,0,0,1,0,1,5,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+127,Wian van Deventer,SINOVILLE 4,,SINOVILLE 4,1,1,0,33,22,33.00,150.00,33,0,0,0,1,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+128,JJ Du Toit,SINOVILLE 3,,SINOVILLE 3,3,2,0,33,56,16.50,58.93,22,0,0,0,0,0,0,4,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+129,Hendré van Niekerk,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,6,5,0,33,60,6.60,55.00,16,0,0,0,0,1,1,3,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+130,Eben Botha,TUKS 5,,TUKS 5,3,3,0,33,62,11.00,53.23,21,0,0,0,0,0,0,2,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+131,Erick Knoesen,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,4,3,1,32,28,16.00,114.29,31,0,0,0,1,1,0,5,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+132,Johan Broekman,CBCOB 3,,CBCOB 3,3,3,1,32,37,16.00,86.49,31,0,0,0,1,1,0,4,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+133,Maans De Roubaix,SINOVILLE 4,,SINOVILLE 4,3,2,0,32,71,16.00,45.07,21,0,0,0,0,0,0,6,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+134,Andre Van wyk,TUKS 5,,TUKS 5,13,8,2,32,76,5.33,42.11,12,0,0,0,0,3,2,1,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+135,Wian van Deventer,SINOVILLE 3,,SINOVILLE 3,1,1,0,31,24,31.00,129.17,31,0,0,0,1,0,2,4,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+136,Bernard Wentzel,CBCOB 3,,CBCOB 3,5,5,2,31,44,10.33,70.45,15,0,0,0,0,2,0,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+137,Keldon van Zyl,SINOVILLE 3,,SINOVILLE 3,2,2,1,30,54,30.00,55.56,17,0,0,0,0,0,0,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+138,Jaco CBC,CBCOB 3,,CBCOB 3,1,1,0,29,15,29.00,193.33,29,0,0,0,1,0,0,4,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+139,Ruben Rossouw,CBCOB 3,,CBCOB 3,1,1,0,29,23,29.00,126.09,29,0,0,0,1,0,1,2,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+140,Marco Rudolph,SINOVILLE 3,,SINOVILLE 3,2,2,0,29,35,14.50,82.86,20,0,0,0,0,0,0,5,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+141,Rudi Loibner,CBCOB 3,,CBCOB 3,7,5,0,29,78,5.80,37.18,15,0,0,0,0,2,0,3,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+142,Etienne Tait,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,28,28,28.00,100.00,28,0,0,0,1,0,0,5,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+143,Wessel Marais,TUT 3,,TUT 3,2,2,0,28,31,14.00,90.32,27,0,0,0,1,0,1,5,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+144,Mollie Sinoville,SINOVILLE 3,,SINOVILLE 3,1,1,0,28,57,28.00,49.12,28,0,0,0,1,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+145,Hanco Hertzog,SINOVILLE 4,,SINOVILLE 4,1,1,0,27,17,27.00,158.82,27,0,0,0,1,0,1,2,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+146,Gerrie Viljoen,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,27,25,27.00,108.00,27,0,0,0,1,0,0,3,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+147,Alec CBC,CBCOB 3,,CBCOB 3,1,1,0,27,27,27.00,100.00,27,0,0,0,1,0,1,2,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+148,Ewan Erasmus,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,26,31,26.00,83.87,26,0,0,0,1,0,0,2,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+149,Louan Nel,HARLEQUINS 3,,HARLEQUINS 3,2,2,0,26,33,13.00,78.79,26,0,0,0,1,1,0,2,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+150,Andre Kruyshaar,SINOVILLE 4,,SINOVILLE 4,5,5,0,26,76,5.20,34.21,9,0,0,0,0,2,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+151,Ryan Thurbon,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,4,4,0,26,81,6.50,32.10,21,0,0,0,0,0,0,2,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+152,Seun Bornman,SINOVILLE 3,,SINOVILLE 3,1,1,0,25,18,25.00,138.89,25,0,0,0,1,0,1,3,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+153,Thomas Hobson,PHSOB 3,,PHSOB 3,2,2,0,25,29,12.50,86.21,19,0,0,0,0,0,1,4,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+154,Kenny Rothe,SINOVILLE 3,,SINOVILLE 3,1,1,0,25,32,25.00,78.12,25,0,0,0,1,0,0,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+155,Gerrald Gouws,CBCOB 3,,CBCOB 3,3,2,1,24,17,24.00,141.18,21,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+156,Lehlohonolo Moshoati,TUKS 5,,TUKS 5,2,1,0,24,21,24.00,114.29,24,0,0,0,0,0,1,2,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+157,Stiaan Schmiedeskamp,HARLEQUINS 3,,HARLEQUINS 3,2,2,1,24,32,24.00,75.00,15,0,0,0,0,0,0,2,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+158,Aidan Van der Westhuizen,SINOVILLE 4,,SINOVILLE 4,1,1,0,24,36,24.00,66.67,24,0,0,0,0,0,1,3,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+159,Keegan Holmwood,PHSOB 3,,PHSOB 3,2,2,0,24,66,12.00,36.36,14,0,0,0,0,0,0,4,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+160,Elro Van der Heever,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,7,6,2,23,46,5.75,50.00,20,0,0,0,0,2,0,2,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+161,Andries Botha,SINOVILLE 3,,SINOVILLE 3,1,1,0,22,28,22.00,78.57,22,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+162,Stanley Fabri,SINOVILLE 4,,SINOVILLE 4,2,2,0,22,38,11.00,57.89,19,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+163,Mohapi Molete,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,5,5,2,22,63,7.33,34.92,10,0,0,0,0,1,0,1,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+164,Estiaan Blom,SINOVILLE 3,,SINOVILLE 3,1,1,0,21,14,21.00,150.00,21,0,0,0,0,0,2,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+165,Justin Reynolds,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,3,3,0,21,15,7.00,140.00,21,0,0,0,0,2,3,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+166,Qiyaam Harlequins 3,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,21,23,21.00,91.30,21,0,0,0,0,0,0,5,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+167,Mark Bekker,TUT 3,,TUT 3,7,5,2,21,37,7.00,56.76,8,0,0,0,0,1,1,0,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+168,Hendre Du toit,SINOVILLE 3,,SINOVILLE 3,2,2,0,20,19,10.00,105.26,19,0,0,0,0,0,1,3,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+169,Jade Richter,PHSOB 3,,PHSOB 3,1,1,0,20,21,20.00,95.24,20,0,0,0,0,0,0,5,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+170,Matt Rogerson,PHSOB 3,,PHSOB 3,2,2,0,20,26,10.00,76.92,15,0,0,0,0,0,1,3,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+171,Francois Viljoen,CBCOB 3,,CBCOB 3,4,3,2,20,35,20.00,57.14,10,0,0,0,0,0,0,2,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+172,Pieter Roos,HARLEQUINS 3,,HARLEQUINS 3,5,3,1,19,22,9.50,86.36,11,0,0,0,0,1,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+173,Tyler Lockhart,PHSOB 3,,PHSOB 3,4,3,1,19,60,9.50,31.67,9,0,0,0,0,0,0,1,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+174,Barry Van Nieuwenhuize,TUT 3,,TUT 3,5,5,1,19,61,4.75,31.15,8,0,0,0,0,0,0,1,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+175,Danie Schoeman,SINOVILLE 3,,SINOVILLE 3,1,1,0,18,40,18.00,45.00,18,0,0,0,0,0,0,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+176,Stanley Fabri,SINOVILLE 3,,SINOVILLE 3,1,1,0,17,12,17.00,141.67,17,0,0,0,0,0,1,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+177,Stephan Lotter,SINOVILLE 3,,SINOVILLE 3,1,1,0,17,15,17.00,113.33,17,0,0,0,0,0,1,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+178,HJ A,CBCOB 3,,CBCOB 3,1,1,0,17,15,17.00,113.33,17,0,0,0,0,0,1,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+179,Renier Bornman,SINOVILLE 3,,SINOVILLE 3,1,1,0,16,15,16.00,106.67,16,0,0,0,0,0,1,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+180,James Twycross,PHSOB 3,,PHSOB 3,2,1,0,16,16,16.00,100.00,16,0,0,0,0,0,1,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+181,Schalk Pelzer,SINOVILLE 4,,SINOVILLE 4,1,1,0,16,16,16.00,100.00,16,0,0,0,0,0,0,3,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+182,Jason Skinner,CBCOB 3,,CBCOB 3,2,1,0,16,21,16.00,76.19,16,0,0,0,0,0,1,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+183,Jordan Lewis,SINOVILLE 4,,SINOVILLE 4,1,1,0,16,28,16.00,57.14,16,0,0,0,0,0,0,3,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+184,Dylan Engelbtecht,SINOVILLE 4,,SINOVILLE 4,1,1,0,16,33,16.00,48.48,16,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+185,Andre Kruyshaar,SINOVILLE 3,,SINOVILLE 3,3,3,0,16,41,5.33,39.02,9,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+186,Pieter Oosthuizen,SINOVILLE 3,,SINOVILLE 3,2,2,0,16,43,8.00,37.21,14,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+187,Steyn Niemand,HARLEQUINS 3,,HARLEQUINS 3,1,1,1,15,11,--,136.36,15,0,0,0,0,0,0,1,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+188,Lehan Kirchner,PHSOB 3,,PHSOB 3,1,1,0,15,11,15.00,136.36,15,0,0,0,0,0,2,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+189,Regan Pruss,PHSOB 3,,PHSOB 3,7,3,1,15,21,7.50,71.43,8,0,0,0,0,0,0,2,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+190,Dylan Howe-Dreyer,PHSOB 3,,PHSOB 3,1,1,0,15,28,15.00,53.57,15,0,0,0,0,0,0,2,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+191,Christo Borman,SINOVILLE 3,,SINOVILLE 3,1,1,0,14,10,14.00,140.00,14,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+192,Keegan Thiele,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,14,11,14.00,127.27,14,0,0,0,0,0,0,3,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+193,Luca Bairos,SINOVILLE 4,,SINOVILLE 4,2,2,0,14,20,7.00,70.00,14,0,0,0,0,1,0,2,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+194,Du Preez Prinsloo,SINOVILLE 4,,SINOVILLE 4,2,2,0,14,22,7.00,63.64,11,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+195,Michael Stoop,PHSOB 3,,PHSOB 3,2,2,1,14,32,14.00,43.75,9,0,0,0,0,0,0,1,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+196,Tyler Miller,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,7,4,0,14,36,3.50,38.89,6,0,0,0,0,1,0,1,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+197,Eugene Joubert,SINOVILLE 4,,SINOVILLE 4,1,1,0,13,11,13.00,118.18,13,0,0,0,0,0,0,3,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+198,Kevin Pretorius,PHSOB 3,,PHSOB 3,1,1,0,13,17,13.00,76.47,13,0,0,0,0,0,1,1,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+199,Shafiq Jacobs,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,12,8,12.00,150.00,12,0,0,0,0,0,0,3,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+200,Andro Vosloo,PHSOB 3,,PHSOB 3,5,3,1,12,12,6.00,100.00,9,0,0,0,0,0,1,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+201,Riley Miller,SINOVILLE 3,,SINOVILLE 3,1,1,0,12,12,12.00,100.00,12,0,0,0,0,0,0,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+202,Christie Klopper,SINOVILLE 3,,SINOVILLE 3,4,3,1,12,21,6.00,57.14,12,0,0,0,0,1,0,2,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+203,Trent Hardie,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,4,3,1,12,21,6.00,57.14,7,0,0,0,0,0,0,1,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+204,Hanco Hertzog,SINOVILLE 3,,SINOVILLE 3,1,1,0,11,9,11.00,122.22,11,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+205,Gerrie Marais,HARLEQUINS 3,,HARLEQUINS 3,3,2,1,11,10,11.00,110.00,10,0,0,0,0,0,0,2,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+206,Koketjo Moselenyane,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,11,12,11.00,91.67,11,0,0,0,0,0,0,2,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+207,Simion Muller,CBCOB 3,,CBCOB 3,1,1,0,11,14,11.00,78.57,11,0,0,0,0,0,0,2,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+208,Dieter Munnik,SINOVILLE 3,,SINOVILLE 3,1,1,0,11,16,11.00,68.75,11,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+209,Devon Almeida,CBCOB 3,,CBCOB 3,2,1,0,11,21,11.00,52.38,11,0,0,0,0,0,1,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+210,Darren Seale,SINOVILLE 3,,SINOVILLE 3,1,1,0,11,27,11.00,40.74,11,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+211,Martin Childs-Hurn,TUKS 5,,TUKS 5,6,4,0,11,28,2.75,39.29,5,0,0,0,0,1,0,2,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+212,HJ Roux,CBCOB 3,,CBCOB 3,1,1,0,10,6,10.00,166.67,10,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+213,Koketjo Moselenyane,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,10,10,10.00,100.00,10,0,0,0,0,0,1,1,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+214,Ryan Stringer,PHSOB 3,,PHSOB 3,1,1,0,10,17,10.00,58.82,10,0,0,0,0,0,0,2,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+215,Ruan Ebersohn,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,2,1,1,9,7,--,128.57,9,0,0,0,0,0,0,1,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+216,Rust Niemand,SINOVILLE 4,,SINOVILLE 4,1,1,0,9,11,9.00,81.82,9,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+217,Jayden Blom,SINOVILLE 4,,SINOVILLE 4,1,1,0,9,17,9.00,52.94,9,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+218,Nico Kruger,TUKS 5,,TUKS 5,2,2,0,9,22,4.50,40.91,8,0,0,0,0,0,0,1,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+219,Christiaan Steyn,HARLEQUINS 3,,HARLEQUINS 3,2,2,0,9,32,4.50,28.12,9,0,0,0,0,1,0,1,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+220,Tyler Miller,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,8,5,8.00,160.00,8,0,0,0,0,0,0,2,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+221,Juan Van den berg,SINOVILLE 3,,SINOVILLE 3,2,2,1,8,11,8.00,72.73,5,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+222,Wessel Maree,TUT 3,,TUT 3,1,1,0,8,13,8.00,61.54,8,0,0,0,0,0,0,2,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+223,Gerhard Scheepers,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,8,13,8.00,61.54,8,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+224,Nuzi Ndlovu,PHSOB 3,,PHSOB 3,2,2,1,8,13,8.00,61.54,5,0,0,0,0,0,0,1,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+225,Mulder Kotze,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,8,14,8.00,57.14,8,0,0,0,0,0,1,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+226,Stephan Van den berg,CBCOB 3,,CBCOB 3,1,1,0,8,15,8.00,53.33,8,0,0,0,0,0,0,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+227,Ryan Seymore,TUT 3,,TUT 3,1,1,0,8,36,8.00,22.22,8,0,0,0,0,0,0,0,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+228,Martin Faber,SINOVILLE 4,,SINOVILLE 4,1,1,0,7,9,7.00,77.78,7,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+229,Ridhaa Jacobs,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,7,21,7.00,33.33,7,0,0,0,0,0,0,1,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+230,Manpreet Singh,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,0,7,21,7.00,33.33,7,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+231,Donovan Kretschmer,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,1,6,5,--,120.00,6,0,0,0,0,0,0,1,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+232,Wessel Herbst,CBCOB 3,,CBCOB 3,1,1,0,6,7,6.00,85.71,6,0,0,0,0,0,0,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+233,Duncan Ackerman,SINOVILLE 3,,SINOVILLE 3,1,1,0,6,9,6.00,66.67,6,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+234,Josh Botes,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,0,6,9,6.00,66.67,6,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+235,Dries Van der Lith,SINOVILLE 4,,SINOVILLE 4,2,2,0,6,10,3.00,60.00,6,0,0,0,0,1,1,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+236,Emil Rolfes,PHSOB 3,,PHSOB 3,1,1,0,6,10,6.00,60.00,6,0,0,0,0,0,0,1,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+237,Riaan Scheepers,TUT 3,,TUT 3,5,2,0,6,10,3.00,60.00,5,0,0,0,0,0,0,1,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+238,Gary Joshua,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,6,10,6.00,60.00,6,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+239,Francke Botha,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,6,12,6.00,50.00,6,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+240,Ricus Moller,SINOVILLE 4,,SINOVILLE 4,1,1,1,6,13,--,46.15,6,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+241,Riaan Davel,SINOVILLE 3,,SINOVILLE 3,1,1,0,6,14,6.00,42.86,6,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+242,Motheo B,CBCOB 3,,CBCOB 3,1,1,0,6,14,6.00,42.86,6,0,0,0,0,0,1,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+243,Mikky Hudson,TUKS 5,,TUKS 5,6,3,1,6,49,3.00,12.24,3,0,0,0,0,0,0,0,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+244,Wayne Scott,CBCOB 3,,CBCOB 3,2,1,0,5,6,5.00,83.33,5,0,0,0,0,0,0,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+245,Andre Schoombee,SINOVILLE 3,,SINOVILLE 3,1,1,0,5,9,5.00,55.56,5,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+246,Wian Munnik,SINOVILLE 3,,SINOVILLE 3,1,1,0,5,9,5.00,55.56,5,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+247,Sallas de Jager,SINOVILLE 4,,SINOVILLE 4,1,1,0,5,9,5.00,55.56,5,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+248,Dian Van der Walt,CBCOB 3,,CBCOB 3,2,2,0,5,10,2.50,50.00,5,0,0,0,0,1,0,1,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+249,Zander Jordaan,SINOVILLE 4,,SINOVILLE 4,2,1,0,5,11,5.00,45.45,5,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+250,Jaco Joubert,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,2,2,0,5,11,2.50,45.45,4,0,0,0,0,0,0,1,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+251,Dian Botha,SINOVILLE 3,,SINOVILLE 3,1,1,0,5,12,5.00,41.67,5,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+252,Alten Du Plessis,PHSOB 3,,PHSOB 3,2,1,0,5,13,5.00,38.46,5,0,0,0,0,0,0,1,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+253,Dylan van Wyk,SINOVILLE 3,,SINOVILLE 3,1,1,0,5,15,5.00,33.33,5,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+254,Gilan Mellet,HARLEQUINS 3,,HARLEQUINS 3,1,1,1,5,24,--,20.83,5,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+255,Nico Labuschagne,SINOVILLE 3,,SINOVILLE 3,1,1,0,4,4,4.00,100.00,4,0,0,0,0,0,0,1,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+256,Maans Roubaix,SINOVILLE 3,,SINOVILLE 3,1,1,0,4,6,4.00,66.67,4,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+257,Chumani Ngcokovane,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,4,10,4.00,40.00,4,0,0,0,0,0,0,1,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+258,Caleb Eckard,CBCOB 3,,CBCOB 3,1,1,0,4,13,4.00,30.77,4,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+259,Juan Van den berg,SINOVILLE 4,,SINOVILLE 4,1,1,0,4,14,4.00,28.57,4,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+260,JJ Lesolang,PHSOB 3,,PHSOB 3,3,3,1,4,14,2.00,28.57,2,0,0,0,0,0,0,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+261,Ian Dorfling,SINOVILLE 4,,SINOVILLE 4,5,4,1,4,14,1.33,28.57,3,0,0,0,0,2,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+262,Ruben Munnik,SINOVILLE 3,,SINOVILLE 3,1,1,0,4,31,4.00,12.90,4,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+263,JP Roets,SINOVILLE 3,,SINOVILLE 3,5,2,1,3,4,3.00,75.00,3,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+264,Dillan Chatham,CBCOB 3,,CBCOB 3,2,1,1,3,4,--,75.00,3,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+265,Johan Feuth,CBCOB 3,,CBCOB 3,1,1,0,3,6,3.00,50.00,3,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+266,Dirkie Kruger,TUT 3,,TUT 3,2,1,0,3,6,3.00,50.00,3,0,0,0,0,0,0,0,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+267,Robert Bornman,SINOVILLE 3,,SINOVILLE 3,1,1,0,3,6,3.00,50.00,3,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+268,Klippies Marais,SINOVILLE 4,,SINOVILLE 4,1,1,0,3,7,3.00,42.86,3,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+269,Jaco Ventet,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,1,3,8,--,37.50,3,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+270,Riaan Labuschagne,SINOVILLE 3,,SINOVILLE 3,1,1,1,3,16,--,18.75,3,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+271,Wilnell Strydom,TUKS 5,,TUKS 5,1,1,0,2,3,2.00,66.67,2,0,0,0,0,0,0,0,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+272,Sarel Marias,HARLEQUINS 3,,HARLEQUINS 3,1,1,1,2,3,--,66.67,2,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+273,Keagon van Zyl,SINOVILLE 3,,SINOVILLE 3,1,1,0,2,4,2.00,50.00,2,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+274,Jaco Ferreira,SINOVILLE 3,,SINOVILLE 3,1,1,0,2,5,2.00,40.00,2,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+275,Raymond Vd Berg,CBCOB 3,,CBCOB 3,1,1,0,2,5,2.00,40.00,2,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+276,Piet Botha,SINOVILLE 4,,SINOVILLE 4,1,1,1,2,6,--,33.33,2,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+277,Botha Geldenhuis,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,2,1,0,2,8,2.00,25.00,2,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+278,WJ Knoetze,SINOVILLE 4,,SINOVILLE 4,1,1,0,2,11,2.00,18.18,2,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+279,Danie Kruger,SINOVILLE 4,,SINOVILLE 4,2,2,2,2,13,--,15.38,1,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+280,Janru Brandt,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,1,2,16,--,12.50,2,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+281,Tiaan Borman,SINOVILLE 3,,SINOVILLE 3,2,2,1,1,2,1.00,50.00,1,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+282,Daylan Scheepers,TUT 3,,TUT 3,1,1,0,1,2,1.00,50.00,1,0,0,0,0,0,0,0,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+283,Mohammed Korowlay,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,1,2,1.00,50.00,1,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+284,Keaton Steenkamp,SINOVILLE 4,,SINOVILLE 4,1,1,0,1,3,1.00,33.33,1,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+285,Sub Sub,SINOVILLE 4,,SINOVILLE 4,1,1,0,1,3,1.00,33.33,1,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+286,Kian Hoeuner,CBCOB 3,,CBCOB 3,1,1,0,1,3,1.00,33.33,1,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+287,Brandon Van der Merwe,SINOVILLE 3,,SINOVILLE 3,1,1,0,1,4,1.00,25.00,1,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+288,Sibusiso Mxube,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,0,1,4,1.00,25.00,1,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+289,Jeandre Joubert,SINOVILLE 4,,SINOVILLE 4,1,1,0,1,7,1.00,14.29,1,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+290,Ruan Schoeman,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,1,10,1.00,10.00,1,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+291,Phillip Bester,PHSOB 3,,PHSOB 3,1,1,0,1,11,1.00,9.09,1,0,0,0,0,0,0,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+292,Micheal TUT3,TUT 3,,TUT 3,5,4,1,1,15,0.33,6.67,1,0,0,0,0,2,0,0,2023 Titans Second League
+,TUT 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+293,Oliver Beauclerk,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+294,Ruan Breytenbach,SINOVILLE 3,,SINOVILLE 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+295,Josh Botes,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+296,Dylan Van wyk,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+297,Derrick Cremer,CBCOB 3,,CBCOB 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+298,Anton Stassen,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+299,Tihardt Kruger,TUKS 5,,TUKS 5,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+300,Playa1 Cbc,CBCOB 3,,CBCOB 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+301,Playa2 Cbc,CBCOB 3,,CBCOB 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+302,Luca Bauros,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+303,Chumani Ngcokovane,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,2,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+304,Mandilulane Cbc3,CBCOB 3,,CBCOB 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+305,Gavin Cbc3,CBCOB 3,,CBCOB 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+306,Alton Van der Westhuizen,SINOVILLE 3,,SINOVILLE 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+307,Igmar Erasmus,SINOVILLE 3,,SINOVILLE 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+308,Niel Alberts,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+309,Juan Van Der Westhuizen,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+310,Burgert Kloppers,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+311,Joe Vickery,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+312,Travis Joshua,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+313,Duane Kruger,SINOVILLE 3,,SINOVILLE 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+314,Matthew Thurbon,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+315,Jeandre Van molledorf,SINOVILLE 3,,SINOVILLE 3,1,1,1,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+316,Josh Joubert,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+317,Joshua Isaac's,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+318,Andre Duvenhage,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+319,Phillip Weyer,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+320,Sieg Dorfling,CBCOB 3,,CBCOB 3,1,1,0,0,0,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+321,Ruan de Beer,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+322,Ricardo Osthuisen,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+323,Pieter Oosthuisen,SINOVILLE 4,,SINOVILLE 4,2,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+324,Dylan Kruger,PHSOB 3,,PHSOB 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+325,Theo Van Rooyen,HARLEQUINS 3,,HARLEQUINS 3,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+326,Riaan Coetzer,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+327,Hendrik Hitge,SINOVILLE 4,,SINOVILLE 4,1,0,0,0,0,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+328,Hein Loggenberg,SINOVILLE 4,,SINOVILLE 4,1,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+329,Cornel Cbc3,CBCOB 3,,CBCOB 3,1,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+330,Tiaan Botha,SINOVILLE 3,,SINOVILLE 3,1,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+331,Jaden Beukes,CBCOB 3,,CBCOB 3,3,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+332,Marko Liebenberg,CBCOB 3,,CBCOB 3,1,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+333,Cj Jordaan,PHSOB 3,,PHSOB 3,2,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+334,Jock de Jager,TUKS 5,,TUKS 5,1,1,1,0,1,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+335,Tyler Lockhart,PHSOB 3,,PHSOB 3,2,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+336,Marinus Langerman,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,0,1,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+337,Ivan Bekker,TUKS 5,,TUKS 5,1,1,0,0,2,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+338,Logan Claasen,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,0,0,2,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+339,Henco Irene,IRENE VILLAGERS 4,,IRENE VILLAGERS 4,1,1,1,0,2,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,IRENE VILLAGERS 4,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+340,Ryan Houbert,PHSOB 3,,PHSOB 3,1,1,0,0,2,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,PHSOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+341,Ruben Potgieter,CBCOB 3,,CBCOB 3,2,1,0,0,3,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+342,Michael Coetzer,SINOVILLE 3,,SINOVILLE 3,1,1,0,0,3,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+343,HR Cbc,CBCOB 3,,CBCOB 3,1,1,0,0,4,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+344,Lee-John Maans,TUKS 5,,TUKS 5,1,1,0,0,5,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,TUKS 5,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+345,Franco Von Mollendorf,SINOVILLE 3,,SINOVILLE 3,1,1,0,0,5,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+346,Christo Weiss,SINOVILLE 3,,SINOVILLE 3,1,1,0,0,6,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+347,Cornel Schnitter,CBCOB 3,,CBCOB 3,1,1,0,0,6,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,CBCOB 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+348,Davie Fabri,SINOVILLE 3,,SINOVILLE 3,1,1,0,0,6,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+349,Jared Fourie,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1,1,0,0,7,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,IRENE VILLAGERS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+350,Adam Richards,HARLEQUINS 3,,HARLEQUINS 3,1,1,0,0,9,0.00,0.00,0,0,0,0,0,1,0,0,2023 Titans Second League
+,HARLEQUINS 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League
+351,Ian Dorfling,SINOVILLE 3,,SINOVILLE 3,3,2,2,0,12,--,0.00,0,0,0,0,0,0,0,0,2023 Titans Second League
+,SINOVILLE 3,,,,,,,,,,,,,,,,,,,2023 Titans Second League

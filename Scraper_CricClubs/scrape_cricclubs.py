@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup as bs
 from io import BytesIO
 import re
 import os
+from scraper_results import parse_results_from_html
 
 base_url = "https://cricclubs.com/TitansCricket"
 output_dir = "output"
@@ -64,7 +65,8 @@ def ensure_folder(path):
     os.makedirs(path, exist_ok=True)
 
 
-# Leagues and points table require separate handling as they don't follow the same HTML structure as the other stats tables
+# Leagues, points table, and results require separate handling as they don't all
+# follow the same player-stat table structure.
 
 def get_leagues():
     url = f"{base_url}/viewAllLeagues.do"
@@ -120,6 +122,16 @@ def get_points_table(league_id, club_id):
     return df
 
 
+def get_results_table(league_id, club_id):
+    url = f"{base_url}/viewLeagueResults.do?league={league_id}&clubId={club_id}"
+    html = get_html(url)
+
+    if not html:
+        return None
+
+    return parse_results_from_html(html, url)
+
+
 # Configuration for stats
 
 STAT_CONFIG = {
@@ -152,6 +164,7 @@ def run_scraper(club_id):
 
     # Store combined data per year
     yearly_data = {}
+    all_results = []
 
     for _, row in leagues_df.iterrows():
         league_id = row['League ID']
@@ -163,6 +176,7 @@ def run_scraper(club_id):
         if year not in yearly_data:
             yearly_data[year] = {stat: [] for stat in STAT_CONFIG}
             yearly_data[year]["points"] = []
+            yearly_data[year]["result"] = []
 
         # Stats
         for stat, config in STAT_CONFIG.items():
@@ -184,6 +198,13 @@ def run_scraper(club_id):
             df_points["League Name"] = league_name
             yearly_data[year]["points"].append(df_points)
 
+        # Results
+        df_results = get_results_table(league_id, club_id)
+        if df_results is not None:
+            df_results["League Name"] = league_name
+            yearly_data[year]["result"].append(df_results)
+            all_results.append(df_results)
+
     # Save per year
     for year, stats in yearly_data.items():
         year_folder = os.path.join(output_dir, year)
@@ -197,6 +218,12 @@ def run_scraper(club_id):
                 filename = os.path.join(year_folder, f"{stat}.csv")
                 combined_df.to_csv(filename, index=False)
                 print(f"Saved: {filename}")
+
+    if all_results:
+        combined_results_df = pd.concat(all_results, ignore_index=True)
+        results_filename = os.path.join(output_dir, "result.csv")
+        combined_results_df.to_csv(results_filename, index=False)
+        print(f"Saved: {results_filename}")
 
 # Entry point
 

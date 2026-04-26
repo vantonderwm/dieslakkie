@@ -4,6 +4,12 @@ from bs4 import BeautifulSoup as bs
 import re
 import os
 from scraper_results import build_absolute_url, extract_query_value, parse_results_from_html
+from scraper_scorecard import (
+    normalize_scorecard_url,
+    fetch_html as fetch_scorecard_html,
+    parse_scorecard,
+    save_outputs as save_scorecard_outputs,
+)
 
 base_url = "https://cricclubs.com/TitansCricket"
 output_dir = "output"
@@ -204,6 +210,31 @@ def get_results_table(league_id, club_id):
     return parse_results_from_html(html, url)
 
 
+def get_scorecard_frames(scorecard_url, league_id, league_name):
+    full_scorecard_url = normalize_scorecard_url(scorecard_url)
+    html = fetch_scorecard_html(full_scorecard_url)
+
+    if not html:
+        return None, None, None
+
+    summary_df, batting_df, bowling_df = parse_scorecard(html, full_scorecard_url)
+
+    if not summary_df.empty:
+        summary_df.insert(1, "LEAGUE_ID", league_id)
+        summary_df["LEAGUE_NAME"] = league_name
+
+    if not batting_df.empty:
+        batting_df.insert(1, "LEAGUE_ID", league_id)
+        batting_df["LEAGUE_NAME"] = league_name
+
+    if not bowling_df.empty:
+        bowling_df.insert(1, "LEAGUE_ID", league_id)
+        bowling_df["LEAGUE_NAME"] = league_name
+
+    save_scorecard_outputs(summary_df, batting_df, bowling_df, html)
+    return summary_df, batting_df, bowling_df
+
+
 # Configuration for stats
 
 STAT_CONFIG = {
@@ -233,19 +264,24 @@ STAT_CONFIG = {
 
 def run_scraper(club_id):
     leagues_df = get_leagues()
+    total_leagues = len(leagues_df)
 
     # Store combined data per year
     yearly_data = {}
     all_results = []
     all_stats = {stat: [] for stat in STAT_CONFIG}
     all_stats["points"] = []
+    all_scorecard_batting = []
+    all_scorecard_bowling = []
+    all_scorecard_summary = []
 
-    for _, row in leagues_df.iterrows():
+    for league_index, row in enumerate(leagues_df.iterrows(), start=1):
+        _, row = row
         league_id = row['League ID']
         league_name = row['League Name']
         year = extract_year(league_name)
 
-        print(f"\nProcessing: {league_name}")
+        print(f"\n[{league_index}/{total_leagues}] Processing league: {league_name} (league_id={league_id})")
 
         if year not in yearly_data:
             yearly_data[year] = {stat: [] for stat in STAT_CONFIG}
@@ -253,6 +289,7 @@ def run_scraper(club_id):
             yearly_data[year]["result"] = []
 
         # Points
+        print(f"  - Points table")
         df_points = get_points_table(league_id, club_id)
         team_lookup = {}
         if df_points is not None:
@@ -266,6 +303,7 @@ def run_scraper(club_id):
 
         # Stats
         for stat, config in STAT_CONFIG.items():
+            print(f"  - {stat.capitalize()} records")
             url = f"{base_url}/{config['url']}?league={league_id}&clubId={club_id}"
             html = get_html(url)
 
@@ -281,11 +319,37 @@ def run_scraper(club_id):
                 all_stats[stat].append(df)
 
         # Results
+        print("  - Results")
         df_results = get_results_table(league_id, club_id)
         if df_results is not None:
             df_results["League Name"] = league_name
             yearly_data[year]["result"].append(df_results)
             all_results.append(df_results)
+
+            scorecard_urls = [url for url in df_results["SCORECARD_URL"].dropna() if str(url).strip()]
+            total_scorecards = len(scorecard_urls)
+            print(f"  - Scorecards: {total_scorecards} found")
+
+            for scorecard_index, scorecard_url in enumerate(scorecard_urls, start=1):
+                progress_pct = round((scorecard_index / total_scorecards) * 100) if total_scorecards else 100
+                print(
+                    f"    [{scorecard_index}/{total_scorecards} | {progress_pct}%] "
+                    f"Processing scorecard: {scorecard_url}"
+                )
+                summary_df, batting_df, bowling_df = get_scorecard_frames(
+                    scorecard_url,
+                    league_id,
+                    league_name,
+                )
+
+                if summary_df is not None and not summary_df.empty:
+                    all_scorecard_summary.append(summary_df)
+
+                if batting_df is not None and not batting_df.empty:
+                    all_scorecard_batting.append(batting_df)
+
+                if bowling_df is not None and not bowling_df.empty:
+                    all_scorecard_bowling.append(bowling_df)
 
     # Save per year
     for year, stats in yearly_data.items():
@@ -313,6 +377,24 @@ def run_scraper(club_id):
             filename = os.path.join(output_dir, f"{stat}.csv")
             combined_df.to_csv(filename, index=False)
             print(f"Saved: {filename}")
+
+    if all_scorecard_summary:
+        combined_df = pd.concat(all_scorecard_summary, ignore_index=True)
+        filename = os.path.join(output_dir, "match_summary_scorecard.csv")
+        combined_df.to_csv(filename, index=False)
+        print(f"Saved: {filename}")
+
+    if all_scorecard_batting:
+        combined_df = pd.concat(all_scorecard_batting, ignore_index=True)
+        filename = os.path.join(output_dir, "batting_scorecard.csv")
+        combined_df.to_csv(filename, index=False)
+        print(f"Saved: {filename}")
+
+    if all_scorecard_bowling:
+        combined_df = pd.concat(all_scorecard_bowling, ignore_index=True)
+        filename = os.path.join(output_dir, "bowling_scorecard.csv")
+        combined_df.to_csv(filename, index=False)
+        print(f"Saved: {filename}")
 
 # Entry point
 

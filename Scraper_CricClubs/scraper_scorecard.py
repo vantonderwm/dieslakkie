@@ -65,6 +65,25 @@ def clean_text(value):
     return " ".join(cleaned.split())
 
 
+def overs_to_balls(overs_text):
+    text = clean_text(overs_text)
+    if not text:
+        return ""
+    if "." not in text:
+        return text
+    overs, balls = text.split(".", 1)
+    if not overs.isdigit() or not balls.isdigit():
+        return ""
+    return str(int(overs) * 6 + int(balls))
+
+
+def parse_extras_breakdown(extras_text):
+    values = {"b": "0", "lb": "0", "w": "0", "nb": "0", "p": "0"}
+    for key, value in re.findall(r"\b(b|lb|w|nb|p)\s+(\d+)", clean_text(extras_text)):
+        values[key] = value
+    return values
+
+
 def extract_match_summary(soup, source_url):
     summary = soup.find("div", {"class": "match-summary"})
     if not summary:
@@ -141,7 +160,7 @@ def parse_batting_table(table, innings_number, match_summary):
     innings_header = clean_text(table.find("thead").find("th").get_text(" ", strip=True))
     innings_team = innings_header.split(" innings")[0].strip()
     rows = []
-    did_not_bat = ""
+    innings_summary = None
 
     tbody = table.find("tbody")
     for row in tbody.find_all("tr", recursive=False):
@@ -151,11 +170,49 @@ def parse_batting_table(table, innings_number, match_summary):
 
         batter_cell = cells[0]
         batter_text = clean_text(batter_cell.get_text(" ", strip=True))
-        if batter_text.startswith("Extras") or batter_text.startswith("Total"):
+        if batter_text.startswith("Extras"):
+            extras = parse_extras_breakdown(cells[1].get_text(" ", strip=True))
+            if innings_summary is None:
+                innings_summary = {}
+            innings_summary.update(
+                {
+                    "BYES": extras["b"],
+                    "LEG_BYES": extras["lb"],
+                    "WIDES": extras["w"],
+                    "NO_BALLS": extras["nb"],
+                    "PENALTY": extras["p"],
+                    "EXTRAS": clean_text(cells[2].get_text(" ", strip=True)),
+                }
+            )
+            continue
+
+        if batter_text.startswith("Total"):
+            total_meta = clean_text(cells[1].get_text(" ", strip=True))
+            wickets_match = re.search(r"(\d+)\s+wickets?", total_meta)
+            overs_match = re.search(r"(\d+(?:\.\d+)?)\s+overs?", total_meta)
+            if innings_summary is None:
+                innings_summary = {}
+            innings_summary.update(
+                {
+                    "TOTAL_RUNS": clean_text(cells[2].get_text(" ", strip=True)),
+                    "WICKETS": wickets_match.group(1) if wickets_match else "",
+                    "TOTAL_OVERS": overs_match.group(1) if overs_match else "",
+                    "TOTAL_BALLS": overs_to_balls(overs_match.group(1) if overs_match else ""),
+                }
+            )
             continue
 
         player_link = batter_cell.find("a", href=True)
-        dismissal_links = cells[1].find_all("a", href=True)
+        dismissal_player_links = [
+            link
+            for link in cells[1].find_all("a", href=True)
+            if "viewPlayer.do" in link.get("href", "")
+        ]
+        dismissal_player_names = [clean_text(link.get_text(" ", strip=True)) for link in dismissal_player_links]
+        dismissal_player_ids = [
+            extract_query_value(build_absolute_url(link.get("href", "")), "playerId")
+            for link in dismissal_player_links
+        ]
 
         row_data = {
             "MATCH_ID": match_summary["MATCH_ID"],
@@ -171,9 +228,11 @@ def parse_batting_table(table, innings_number, match_summary):
             "PLAYER": clean_batter_name(clean_text(player_link.get_text(" ", strip=True)) if player_link else batter_text),
             "PLAYER_ID": extract_player_id_from_links([player_link] if player_link else []),
             "DISMISSAL_TEXT": clean_text(cells[1].get_text(" ", strip=True)),
-            "DISMISSAL_PLAYER_IDS": ",".join(
-                filter(None, [extract_player_id_from_links([link]) for link in dismissal_links])
-            ),
+            "DISMISSAL_PLAYER_1": dismissal_player_names[0] if len(dismissal_player_names) > 0 else "",
+            "DISMISSAL_PLAYER_1_ID": dismissal_player_ids[0] if len(dismissal_player_ids) > 0 else "",
+            "DISMISSAL_PLAYER_2": dismissal_player_names[1] if len(dismissal_player_names) > 1 else "",
+            "DISMISSAL_PLAYER_2_ID": dismissal_player_ids[1] if len(dismissal_player_ids) > 1 else "",
+            "DISMISSAL_PLAYER_IDS": ",".join(filter(None, dismissal_player_ids)),
             "RUNS": clean_text(cells[2].get_text(" ", strip=True)),
             "BALLS": clean_text(cells[3].get_text(" ", strip=True)),
             "FOURS": clean_text(cells[4].get_text(" ", strip=True)),
@@ -182,10 +241,14 @@ def parse_batting_table(table, innings_number, match_summary):
         }
         rows.append(row_data)
 
-    return pd.DataFrame(rows)
+    batting_df = pd.DataFrame(rows)
+    return batting_df, innings_summary or {}
 
 
 def parse_bowling_table(table, innings_number, match_summary, innings_team):
+    batting_team_id = match_summary["TEAM_ONE_ID"] if innings_team == match_summary["TEAM_ONE"] else match_summary["TEAM_TWO_ID"]
+    bowling_team_id = match_summary["TEAM_TWO_ID"] if batting_team_id == match_summary["TEAM_ONE_ID"] else match_summary["TEAM_ONE_ID"]
+    bowling_team_name = match_summary["TEAM_TWO"] if batting_team_id == match_summary["TEAM_ONE_ID"] else match_summary["TEAM_ONE"]
     rows = []
     tbody = table.find("tbody")
     for row in tbody.find_all("tr", recursive=False):
@@ -207,7 +270,10 @@ def parse_bowling_table(table, innings_number, match_summary, innings_team):
             "TEAM_ONE_ID": match_summary["TEAM_ONE_ID"],
             "TEAM_TWO_ID": match_summary["TEAM_TWO_ID"],
             "INNINGS": innings_number,
-            "INNINGS_TEAM": innings_team,
+            "BATTING_TEAM": innings_team,
+            "BATTING_TEAM_ID": batting_team_id,
+            "BOWLING_TEAM": bowling_team_name,
+            "BOWLING_TEAM_ID": bowling_team_id,
             "PLAYER": clean_text(player_link.get_text(" ", strip=True)).replace("*", "").strip() if player_link else clean_text(bowler_cell.get_text(" ", strip=True)),
             "PLAYER_ID": extract_player_id_from_links([player_link] if player_link else []),
             "OVERS": clean_text(cells[2].get_text(" ", strip=True)),
@@ -236,6 +302,7 @@ def parse_scorecard(html, source_url):
     tables = scorecard_tab.find_all("table", recursive=True)
     batting_frames = []
     bowling_frames = []
+    innings_summaries = []
 
     current_innings = 0
     current_team = ""
@@ -246,10 +313,40 @@ def parse_scorecard(html, source_url):
 
         if " innings" in first_header_text and table.find("thead"):
             current_innings += 1
-            batting_df = parse_batting_table(table, current_innings, summary)
+            batting_df, innings_summary = parse_batting_table(table, current_innings, summary)
             if not batting_df.empty:
                 current_team = batting_df["INNINGS_TEAM"].iloc[0]
                 batting_frames.append(batting_df)
+            else:
+                current_team = first_header_text.split(" innings")[0].strip()
+
+            batting_team_id = summary["TEAM_ONE_ID"] if current_team == summary["TEAM_ONE"] else summary["TEAM_TWO_ID"]
+            bowling_team_id = summary["TEAM_TWO_ID"] if batting_team_id == summary["TEAM_ONE_ID"] else summary["TEAM_ONE_ID"]
+            bowling_team_name = summary["TEAM_TWO"] if batting_team_id == summary["TEAM_ONE_ID"] else summary["TEAM_ONE"]
+            innings_summary_row = {
+                "MATCH_ID": summary["MATCH_ID"],
+                "LEAGUE_NAME": summary["LEAGUE_NAME"],
+                "LEAGUE_YEAR": summary["LEAGUE_YEAR"],
+                "CLUB_ID": summary["CLUB_ID"],
+                "MATCH_TYPE": summary["MATCH_TYPE"],
+                "MATCH_DATE": summary["MATCH_DATE"],
+                "MATCH_DATE_KEY": summary["MATCH_DATE_KEY"],
+                "RESULT": summary["RESULT"],
+                "INNINGS": current_innings,
+                "BATTING_TEAM_ID": batting_team_id,
+                "BOWLING_TEAM_ID": bowling_team_id,
+                "BATTING_TEAM_NAME": current_team,
+                "BOWLING_TEAM_NAME": bowling_team_name,
+                "TOTAL_RUNS": innings_summary.get("TOTAL_RUNS", ""),
+                "TOTAL_BALLS": innings_summary.get("TOTAL_BALLS", ""),
+                "BYES": innings_summary.get("BYES", "0"),
+                "LEG_BYES": innings_summary.get("LEG_BYES", "0"),
+                "WICKETS": innings_summary.get("WICKETS", ""),
+                "WIDES": innings_summary.get("WIDES", "0"),
+                "NO_BALLS": innings_summary.get("NO_BALLS", "0"),
+                "PENALTY": innings_summary.get("PENALTY", "0"),
+            }
+            innings_summaries.append(innings_summary_row)
             continue
 
         if first_header_text.startswith("Bowling") and current_innings > 0:
@@ -259,7 +356,7 @@ def parse_scorecard(html, source_url):
 
     batting_df = pd.concat(batting_frames, ignore_index=True) if batting_frames else pd.DataFrame()
     bowling_df = pd.concat(bowling_frames, ignore_index=True) if bowling_frames else pd.DataFrame()
-    summary_df = pd.DataFrame([summary])
+    summary_df = pd.DataFrame(innings_summaries)
     return summary_df, batting_df, bowling_df
 
 
@@ -271,7 +368,7 @@ def save_outputs(summary_df, batting_df, bowling_df, html):
     summary = summary_df.iloc[0].to_dict()
     league_folder = os.path.join(OUTPUT_DIR, summary["LEAGUE_YEAR"], "scorecards")
     ensure_folder(league_folder)
-    stem = build_file_stem(summary)
+    stem = f"{summary['MATCH_DATE_KEY']}_{summary['CLUB_ID']}_{summary['BATTING_TEAM_ID']}v{summary['BOWLING_TEAM_ID']}"
 
     summary_path = os.path.join(league_folder, f"match_summary_{stem}.csv")
     raw_path = os.path.join(league_folder, f"raw_scorecard_{stem}.html")
@@ -279,17 +376,13 @@ def save_outputs(summary_df, batting_df, bowling_df, html):
     with open(raw_path, "w", encoding="utf-8") as f:
         f.write(html)
 
-    for innings in [1, 2]:
-        innings_batting = batting_df[batting_df["INNINGS"] == innings]
-        innings_bowling = bowling_df[bowling_df["INNINGS"] == innings]
+    if not batting_df.empty:
+        batting_path = os.path.join(league_folder, f"batting_{stem}.csv")
+        batting_df.to_csv(batting_path, index=False)
 
-        if not innings_batting.empty:
-            path = os.path.join(league_folder, f"batting_{stem}_i{innings}.csv")
-            innings_batting.to_csv(path, index=False)
-
-        if not innings_bowling.empty:
-            path = os.path.join(league_folder, f"bowling_{stem}_i{innings}.csv")
-            innings_bowling.to_csv(path, index=False)
+    if not bowling_df.empty:
+        bowling_path = os.path.join(league_folder, f"bowling_{stem}.csv")
+        bowling_df.to_csv(bowling_path, index=False)
 
     print(f"Saved: {summary_path}")
     print(f"Saved: {raw_path}")

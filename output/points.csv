@@ -1,0 +1,39 @@
+SNO,LEAGUE_ID,CLUB_ID,TEAM,TEAM_URL,TEAM_ID,TEAM_CLUB_ID,MAT,WON,LOST,NR,TIE,PTS,WIN%,NET RR,FOR,AGAINST,FOR_RUNS,FOR_OVERS,AGAINST_RUNS,AGAINST_OVERS,League Name
+1,949,32995,PHSOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5428&clubId=32995,5428,32995,14,9,3,2,0,40,75.00%,1.4425,2514/430.4,2270/516.3,2514,430.4,2270,516.3,2025/2026 TITANS SECOND LEAGUE
+2,949,32995,IRENE VILLAGERS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5427&clubId=32995,5427,32995,14,8,3,3,0,38,72.73%,1.9979,1913/361.5,1428/434.1,1913,361.5,1428,434.1,2025/2026 TITANS SECOND LEAGUE
+3,949,32995,TUT 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5431&clubId=32995,5431,32995,14,8,3,3,0,38,72.73%,1.0166,1745/362.1,1584/416.4,1745,362.1,1584,416.4,2025/2026 TITANS SECOND LEAGUE
+4,949,32995,CBCOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5425&clubId=32995,5425,32995,13,5,3,5,0,30,62.50%,-0.1640,1224/341.3,1280/341.3,1224,341.3,1280,341.3,2025/2026 TITANS SECOND LEAGUE
+5,949,32995,TUKS 5,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5430&clubId=32995,5430,32995,13,4,7,2,0,20,36.36%,0.1143,1781/395.2,1899/432.3,1781,395.2,1899,432.3,2025/2026 TITANS SECOND LEAGUE
+6,949,32995,SINOVILLE 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5429&clubId=32995,5429,32995,14,3,7,4,0,20,30.00%,-1.4815,1542/410.0,1564/298.2,1542,410.0,1564,298.2,2025/2026 TITANS SECOND LEAGUE
+7,949,32995,HARLEQUINS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5426&clubId=32995,5426,32995,14,3,8,3,0,18,27.27%,-2.1393,1524/480.0,1922/361.4,1524,480.0,1922,361.4,2025/2026 TITANS SECOND LEAGUE
+8,949,32995,IRENE VILLAGERS 4,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=5432&clubId=32995,5432,32995,14,2,8,4,0,16,20.00%,-1.5129,1701/430.0,1997/365.1,1701,430.0,1997,365.1,2025/2026 TITANS SECOND LEAGUE
+1,790,32995,PHSOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4555&clubId=32995,4555,32995,18,10,4,4,0,48,71.43%,0.4189,1751/455.0,1581/461.0,1751,455.0,1581,461.0,2024 Titans Second League
+2,790,32995,IRENE VILLAGERS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4554&clubId=32995,4554,32995,18,10,5,3,0,46,66.67%,0.6681,2653/549.4,2240/538.4,2653,549.4,2240,538.4,2024 Titans Second League
+3,790,32995,HARLEQUINS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4553&clubId=32995,4553,32995,18,10,5,3,0,46,66.67%,0.5707,2778/576.5,2458/579.0,2778,576.5,2458,579.0,2024 Titans Second League
+4,790,32995,SINOVILLE 4,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4557&clubId=32995,4557,32995,18,8,5,5,0,46,61.54%,-1.2346,1200/376.0,1198/270.4,1200,376.0,1198,270.4,2024 Titans Second League
+5,790,32995,TUT 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4559&clubId=32995,4559,32995,18,10,4,4,0,44*,71.43%,1.7243,2529/444.3,1863/469.5,2529,444.3,1863,469.5,2024 Titans Second League
+6,790,32995,CBCOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4552&clubId=32995,4552,32995,17,7,4,6,0,40,63.64%,1.1874,1912/345.4,1920/442.0,1912,345.4,1920,442.0,2024 Titans Second League
+7,790,32995,TUKS 5,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4558&clubId=32995,4558,32995,18,7,8,3,0,34,46.67%,-0.7393,2055/500.4,2434/502.3,2055,500.4,2434,502.3,2024 Titans Second League
+8,790,32995,SINOVILLE 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4556&clubId=32995,4556,32995,18,6,8,4,0,32,42.86%,-1.3204,2478/590.0,3039/550.3,2478,590.0,3039,550.3,2024 Titans Second League
+9,790,32995,CENTURION KAVALIERS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4560&clubId=32995,4560,32995,17,3,11,3,0,18,21.43%,-2.1079,1119/420.0,1442/302.1,1119,420.0,1442,302.1,2024 Titans Second League
+10,790,32995,PHSOB 4,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=4561&clubId=32995,4561,32995,18,0,17,1,0,2,0.00%,-5.3993,808/775.0,1108/172.0,808,775.0,1108,172.0,2024 Titans Second League
+1,576,32995,IRENE VILLAGERS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3299&clubId=32995,3299,32995,16,11,3,2,0,48,78.57%,1.4791,2127/410.1,1857/501.0,2127,410.1,1857,501.0,2023 Titans Second League
+2,576,32995,TUT 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3305&clubId=32995,3305,32995,16,10,6,0,0,40,62.50%,0.2075,2473/487.4,2645/543.5,2473,487.4,2645,543.5,2023 Titans Second League
+3,576,32995,PHSOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3300&clubId=32995,3300,32995,16,10,6,0,0,40,62.50%,0.8067,3323/590.0,2613/541.3,3323,590.0,2613,541.3,2023 Titans Second League
+4,576,32995,HARLEQUINS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3306&clubId=32995,3306,32995,16,9,5,2,0,40,64.29%,0.7711,3193/548.4,2902/574.5,3193,548.4,2902,574.5,2023 Titans Second League
+5,576,32995,SINOVILLE 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3302&clubId=32995,3302,32995,16,6,8,2,0,28,42.86%,-1.1597,2062/550.5,2253/459.3,2062,550.5,2253,459.3,2023 Titans Second League
+6,576,32995,SINOVILLE 4,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3303&clubId=32995,3303,32995,16,6,9,1,0,26,40.00%,-1.3641,2280/622.5,2437/485.0,2280,622.5,2437,485.0,2023 Titans Second League
+7,576,32995,CBCOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3298&clubId=32995,3298,32995,16,6,9,1,0,26,40.00%,-0.7046,2643/586.2,2766/530.4,2643,586.2,2766,530.4,2023 Titans Second League
+8,576,32995,TUKS 5,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3304&clubId=32995,3304,32995,16,5,10,1,0,22,33.33%,-0.5236,2403/562.4,2724/568.1,2403,562.4,2724,568.1,2023 Titans Second League
+9,576,32995,IRENE VILLAGERS 4,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3307&clubId=32995,3307,32995,16,4,11,1,0,18,26.67%,-1.0290,2516/638.1,2823/567.5,2516,638.1,2823,567.5,2023 Titans Second League
+10,576,32995,POLICE 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=3301&clubId=32995,3301,32995,-,-,-,-,-,-,-,-,-,-,-,,-,,2023 Titans Second League
+1,18,32995,PHSOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1193&clubId=32995,1193,32995,18,14,2,2,0,60,87.50%,2.0094,2004/328.4,1456/356.1,2004,328.4,1456,356.1,Titans Second League
+2,18,32995,CBCOB 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1196&clubId=32995,1196,32995,18,11,3,4,0,52,78.57%,2.8203,1940/255.3,1711/358.3,1940,255.3,1711,358.3,Titans Second League
+3,18,32995,TUT 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1197&clubId=32995,1197,32995,18,9,4,5,0,46,69.23%,-0.7478,1142/258.3,1331/257.4,1142,258.3,1331,257.4,Titans Second League
+4,18,32995,SINOVILLE 4,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1200&clubId=32995,1200,32995,18,9,4,5,0,44,69.23%,0.3046,1599/264.5,1504/262.2,1599,264.5,1504,262.2,Titans Second League
+5,18,32995,SINOVILLE 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1194&clubId=32995,1194,32995,18,8,5,5,0,40,61.54%,-0.4910,1108/225.0,1084/200.1,1108,225.0,1084,200.1,Titans Second League
+6,18,32995,TUKS 5,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1860&clubId=32995,1860,32995,18,6,8,4,0,32,42.86%,0.3026,2246/364.3,2124/362.3,2246,364.3,2124,362.3,Titans Second League
+7,18,32995,IRENE VILLAGERS 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1195&clubId=32995,1195,32995,18,3,6,9,0,24,33.33%,0.0038,1574/300.0,1475/281.2,1574,300.0,1475,281.2,Titans Second League
+8,18,32995,TUKS 6,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1861&clubId=32995,1861,32995,18,3,9,6,0,24,25.00%,-3.5566,1031/274.5,1218/166.4,1031,274.5,1218,166.4,Titans Second League
+9,18,32995,POLICE 3,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1201&clubId=32995,1201,32995,18,1,11,6,0,12,8.33%,-8.1114,232/320.0,972/110.0,232,320.0,972,110.0,Titans Second League
+10,18,32995,REFILWE 1,https://cricclubs.com/TitansCricket/viewTeam.do?teamId=1192&clubId=32995,1192,32995,18,0,12,6,0,6,0.00%,-12.6596,83/315.0,84/6.3,83,315.0,84,6.3,Titans Second League

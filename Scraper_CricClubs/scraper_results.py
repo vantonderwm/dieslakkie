@@ -51,7 +51,7 @@ def split_score_summary(score_summary):
     return parsed
 
 
-def parse_results_from_html(html):
+def parse_results_from_html(html, source_url=""):
     soup = bs(html, "html.parser")
     table = soup.find("table", {"id": RESULTS_TABLE_ID})
 
@@ -61,6 +61,8 @@ def parse_results_from_html(html):
 
     rows = table.find_all("tr")
     data = []
+    league_id = extract_query_value(source_url, "league")
+    club_id = extract_query_value(source_url, "clubId")
 
     for row in rows[1:]:
         cells = row.find_all("td")
@@ -79,13 +81,17 @@ def parse_results_from_html(html):
 
         row_data = {
             "SNO": cells[0].get_text(" ", strip=True),
+            "LEAGUE_ID": league_id,
+            "CLUB_ID": club_id,
             "MATCH_TYPE": cells[1].get_text(" ", strip=True),
             "DATE": cells[2].get_text(" ", strip=True),
             "TEAM_ONE": cells[3].get_text(" ", strip=True),
             "TEAM_ONE_URL": team_one_url,
+            "TEAM_ONE_ID": extract_query_value(team_one_url, "teamId"),
             "TEAM_ONE_CLUB_ID": extract_query_value(team_one_url, "clubId"),
             "TEAM_TWO": cells[4].get_text(" ", strip=True),
             "TEAM_TWO_URL": team_two_url,
+            "TEAM_TWO_ID": extract_query_value(team_two_url, "teamId"),
             "TEAM_TWO_CLUB_ID": extract_query_value(team_two_url, "clubId"),
             "RESULT": cells[5].get_text(" ", strip=True),
             "SCORES_SUMMARY_RAW": score_summary_raw,
@@ -115,7 +121,7 @@ if __name__ == "__main__":
     if html is None:
         raise SystemExit(1)
 
-    df = parse_results_from_html(html)
+    df = parse_results_from_html(html, url)
     if df is not None:
         df.to_csv("scrape_results.csv", index=False)
         print("Data saved to scrape_results.csv")

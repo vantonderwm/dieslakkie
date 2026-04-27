@@ -246,12 +246,12 @@ STAT_CONFIG = {
     "bowling": {
         "url": "viewLeagueBowling.do",
         "table_id": "tableBowlingRecords",
-        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","MAT","TEAM","INS","OVERS","RUNS","WKTS","BBF","MDNS","DOTS","ECON","AVE","SR","HATTRICK","4W","5W","WIDES","NB"]
+        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","TEAM","MAT","INS","OVERS","RUNS","WKTS","BBF","MDNS","DOTS","ECON","AVE","SR","HATTRICK","4W","5W","WIDES","NB"]
     },
     "fielding": {
         "url": "viewLeagueFielding.do",
         "table_id": "tableFieldingRecords",
-        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","CATCHES","WK_CATCHES","DIRECT_RO","INDIRECT_RO","RUNS","STUMPINGS","TOTAL"]
+        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","TEAM","CATCHES","WK_CATCHES","DIRECT_RO","INDIRECT_RO","RUNS","STUMPINGS","TOTAL"]
     },
     "ranking": {
         "url": "viewLeagueRanking.do",

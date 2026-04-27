@@ -252,12 +252,12 @@ STAT_CONFIG = {
     "fielding": {
         "url": "viewLeagueFielding.do",
         "table_id": "tableFieldingRecords",
-        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","TEAM","CATCHES","WK_CATCHES","DIRECT_RO","INDIRECT_RO","RUNS","STUMPINGS","TOTAL"]
+        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","TEAM","CATCHES","WK_CATCHES","DIRECT_RO","INDIRECT_RO","STUMPINGS","TOTAL"]
     },
     "ranking": {
         "url": "viewLeagueRanking.do",
         "table_id": "tablePlayerRankings",
-        "columns": ["SNO","PLAYER","TEAM_ING","BLANK","TEAM_IMG","MAT","BATTING_RANK","BOWLING_RANK","FIELDING_RANK","OTHER_RANK","MOM","TOTAL_RANK"]
+        "columns": ["SNO","PLAYER","TEAM_IMG","BLANK","TEAM","MAT","BATTING_RANK","BOWLING_RANK","FIELDING_RANK","OTHER_RANK","MOM","TOTAL_RANK"]
     }
 }
 

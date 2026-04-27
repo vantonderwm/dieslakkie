@@ -256,7 +256,7 @@ STAT_CONFIG = {
     "ranking": {
         "url": "viewLeagueRanking.do",
         "table_id": "tablePlayerRankings",
-        "columns": ["SNO","PLAYER","TEAM","TEAM_IMG","BLANK","MAT","BATTING_RANK","BOWLING_RANK","FIELDING_RANK","OTHER_RANK","MOM","TOTAL_RANK"]
+        "columns": ["SNO","PLAYER","TEAM_ING","BLANK","TEAM_IMG","MAT","BATTING_RANK","BOWLING_RANK","FIELDING_RANK","OTHER_RANK","MOM","TOTAL_RANK"]
     }
 }
 

@@ -73,7 +73,7 @@ if __name__ == "__main__":
         if isinstance(df.columns, pd.MultiIndex):
             df.columns = df.columns.get_level_values(0)
             print(f"Flattened columns: {df.columns}")
-        expected_columns = ["SNO","PLAYER","TEAM_IMG","BLANK","CATCHES","WK_CATCHES","DIRECT_RO","INDIRECT_RO","RUNS","STUMPINGS","TOTAL"]
+        expected_columns = ["SNO","PLAYER","TEAM_IMG","BLANK","TEAM","CATCHES","WK_CATCHES","DIRECT_RO","INDIRECT_RO","STUMPINGS","TOTAL"]
         if len(df.columns) == len(expected_columns):
             df.columns = expected_columns
         else:

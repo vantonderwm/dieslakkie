@@ -85,6 +85,7 @@ def enrich_stat_df(df, html, table_id, league_id, club_id, team_lookup):
     df = df.copy()
     player_ids = extract_player_ids(html, table_id)
     team_column = "TEAM" if "TEAM" in df.columns else "TEAM_IMG"
+    print(df.columns)
     team_ids = [
         team_lookup.get(normalize_team_key(team_name), "")
         for team_name in df[team_column].tolist()

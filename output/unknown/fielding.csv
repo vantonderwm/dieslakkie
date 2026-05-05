@@ -1,677 +1,677 @@
-SNO,LEAGUE_ID,CLUB_ID,PLAYER,PLAYER_ID,TEAM_IMG,TEAM_ID,BLANK,CATCHES,WK_CATCHES,DIRECT_RO,INDIRECT_RO,RUNS,STUMPINGS,TOTAL,League Name
-1,18,32995,Christian Strydom,2936847,TUKS 5,1860,,TUKS 5,8,0,2,0,0,10,Titans Second League
+SNO,LEAGUE_ID,CLUB_ID,PLAYER,PLAYER_ID,TEAM_IMG,BLANK,TEAM,TEAM_ID,CATCHES,WK_CATCHES,DIRECT_RO,INDIRECT_RO,STUMPINGS,TOTAL,League Name
+1,18,32995,Christian Strydom,2936847,TUKS 5,,TUKS 5,1860,8,0,2,0,0,10,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-2,18,32995,Willem Sevenster,2049746,CBCOB 3,1196,,CBCOB 3,0,7,0,1,0,8,Titans Second League
+2,18,32995,Willem Sevenster,2049746,CBCOB 3,,CBCOB 3,1196,0,7,0,1,0,8,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-3,18,32995,Martin Van Tonder,2840539,TUKS 5,1860,,TUKS 5,7,0,1,0,0,8,Titans Second League
+3,18,32995,Martin Van Tonder,2840539,TUKS 5,,TUKS 5,1860,7,0,1,0,0,8,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-4,18,32995,Justin Fourie,2987524,PHSOB 3,1193,,PHSOB 3,7,0,0,0,0,7,Titans Second League
+4,18,32995,Justin Fourie,2987524,PHSOB 3,,PHSOB 3,1193,7,0,0,0,0,7,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-5,18,32995,Uzair Vayani,3018178,PHSOB 3,1193,,PHSOB 3,5,2,0,0,0,7,Titans Second League
+5,18,32995,Uzair Vayani,3018178,PHSOB 3,,PHSOB 3,1193,5,2,0,0,0,7,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-6,18,32995,Chad Fortman,2936899,PHSOB 3,1193,,PHSOB 3,6,0,0,0,0,6,Titans Second League
+6,18,32995,Chad Fortman,2936899,PHSOB 3,,PHSOB 3,1193,6,0,0,0,0,6,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-7,18,32995,Dawie Kruger,2985805,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,4,1,0,0,0,5,Titans Second League
+7,18,32995,Dawie Kruger,2985805,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,4,1,0,0,0,5,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-8,18,32995,Riaan von Bentheim,3018175,TUKS 5,1860,,TUKS 5,1,4,0,0,0,5,Titans Second League
+8,18,32995,Riaan von Bentheim,3018175,TUKS 5,,TUKS 5,1860,1,4,0,0,0,5,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-9,18,32995,Aerton Helena,2936841,TUKS 5,1860,,TUKS 5,4,0,0,0,0,4,Titans Second League
+9,18,32995,Aerton Helena,2936841,TUKS 5,,TUKS 5,1860,4,0,0,0,0,4,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-10,18,32995,Victor Van Niekerk,2985801,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,2,2,0,0,0,4,Titans Second League
+10,18,32995,Victor Van Niekerk,2985801,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,2,2,0,0,0,4,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-11,18,32995,Gunter Geyer,2985804,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,4,0,0,0,0,4,Titans Second League
+11,18,32995,Gunter Geyer,2985804,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,4,0,0,0,0,4,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-12,18,32995,Noele Saffar,2986862,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,4,0,0,0,0,4,Titans Second League
+12,18,32995,Noele Saffar,2986862,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,4,0,0,0,0,4,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-13,18,32995,Louis van Zyl,3003071,CBCOB 3,1196,,CBCOB 3,4,0,0,0,0,4,Titans Second League
+13,18,32995,Louis van Zyl,3003071,CBCOB 3,,CBCOB 3,1196,4,0,0,0,0,4,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-14,18,32995,Chris Koekemoer,3069547,CBCOB 3,1196,,CBCOB 3,4,0,0,0,0,4,Titans Second League
+14,18,32995,Chris Koekemoer,3069547,CBCOB 3,,CBCOB 3,1196,4,0,0,0,0,4,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-15,18,32995,Devon Almeida,3242449,CBCOB 3,1196,,CBCOB 3,1,3,0,0,0,4,Titans Second League
+15,18,32995,Devon Almeida,3242449,CBCOB 3,,CBCOB 3,1196,1,3,0,0,0,4,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-16,18,32995,Tiaan Engelbrecht,2936837,TUKS 5,1860,,TUKS 5,3,0,1,0,0,4,Titans Second League
+16,18,32995,Tiaan Engelbrecht,2936837,TUKS 5,,TUKS 5,1860,3,0,1,0,0,4,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-17,18,32995,Niel Coetzee,3018224,TUT 3,1197,,TUT 3,1,1,0,0,2,4,Titans Second League
+17,18,32995,Niel Coetzee,3018224,TUT 3,,TUT 3,1197,1,1,0,0,2,4,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-18,18,32995,Gerhard De Bruin,2936835,TUKS 5,1860,,TUKS 5,3,0,0,0,0,3,Titans Second League
+18,18,32995,Gerhard De Bruin,2936835,TUKS 5,,TUKS 5,1860,3,0,0,0,0,3,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-19,18,32995,Matimu Mayayise,2936840,TUKS 5,1860,,TUKS 5,3,0,0,0,0,3,Titans Second League
+19,18,32995,Matimu Mayayise,2936840,TUKS 5,,TUKS 5,1860,3,0,0,0,0,3,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-20,18,32995,Riccardo Oosthuizen,2936842,TUKS 5,1860,,TUKS 5,3,0,0,0,0,3,Titans Second League
+20,18,32995,Riccardo Oosthuizen,2936842,TUKS 5,,TUKS 5,1860,3,0,0,0,0,3,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-21,18,32995,Justin Van Bassen,2936896,PHSOB 3,1193,,PHSOB 3,0,3,0,0,0,3,Titans Second League
+21,18,32995,Justin Van Bassen,2936896,PHSOB 3,,PHSOB 3,1193,0,3,0,0,0,3,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-22,18,32995,Christo Swanepoel,2936900,PHSOB 3,1193,,PHSOB 3,3,0,0,0,0,3,Titans Second League
+22,18,32995,Christo Swanepoel,2936900,PHSOB 3,,PHSOB 3,1193,3,0,0,0,0,3,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-23,18,32995,Tyron Denton,2936916,PHSOB 3,1193,,PHSOB 3,3,0,0,0,0,3,Titans Second League
+23,18,32995,Tyron Denton,2936916,PHSOB 3,,PHSOB 3,1193,3,0,0,0,0,3,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-24,18,32995,Ryno Joubert,2985794,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,3,0,0,0,3,Titans Second League
+24,18,32995,Ryno Joubert,2985794,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,3,0,0,0,3,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-25,18,32995,Donovan Steinberg,2985796,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,3,0,0,0,0,3,Titans Second League
+25,18,32995,Donovan Steinberg,2985796,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,3,0,0,0,0,3,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-26,18,32995,Jean Coetser,3018231,TUT 3,1197,,TUT 3,3,0,0,0,0,3,Titans Second League
+26,18,32995,Jean Coetser,3018231,TUT 3,,TUT 3,1197,3,0,0,0,0,3,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-27,18,32995,Jacques Erasmus,3056082,SINOVILLE 4,1200,,SINOVILLE 4,3,0,0,0,0,3,Titans Second League
+27,18,32995,Jacques Erasmus,3056082,SINOVILLE 4,,SINOVILLE 4,1200,3,0,0,0,0,3,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-28,18,32995,Charl Foxcroft,2097177,TUT 3,1197,,TUT 3,2,0,1,0,0,3,Titans Second League
+28,18,32995,Charl Foxcroft,2097177,TUT 3,,TUT 3,1197,2,0,1,0,0,3,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-29,18,32995,Stephan Van Der Berg,2987583,CBCOB 3,1196,,CBCOB 3,0,2,0,1,0,3,Titans Second League
+29,18,32995,Stephan Van Der Berg,2987583,CBCOB 3,,CBCOB 3,1196,0,2,0,1,0,3,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-30,18,32995,Shaun Muirhead,2889022,CBCOB 3,1196,,CBCOB 3,2,0,0,0,0,2,Titans Second League
+30,18,32995,Shaun Muirhead,2889022,CBCOB 3,,CBCOB 3,1196,2,0,0,0,0,2,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-31,18,32995,Hancko Vosser,2936836,TUKS 5,1860,,TUKS 5,0,2,0,0,0,2,Titans Second League
+31,18,32995,Hancko Vosser,2936836,TUKS 5,,TUKS 5,1860,0,2,0,0,0,2,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-32,18,32995,Jan Jones,2936838,TUKS 5,1860,,TUKS 5,2,0,0,0,0,2,Titans Second League
+32,18,32995,Jan Jones,2936838,TUKS 5,,TUKS 5,1860,2,0,0,0,0,2,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-33,18,32995,Frits Snyman,2936846,TUKS 5,1860,,TUKS 5,2,0,0,0,0,2,Titans Second League
+33,18,32995,Frits Snyman,2936846,TUKS 5,,TUKS 5,1860,2,0,0,0,0,2,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-34,18,32995,Eben Botha,2936848,TUKS 5,1860,,TUKS 5,2,0,0,0,0,2,Titans Second League
+34,18,32995,Eben Botha,2936848,TUKS 5,,TUKS 5,1860,2,0,0,0,0,2,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-35,18,32995,Emil Rolfes,2936903,PHSOB 3,1193,,PHSOB 3,2,0,0,0,0,2,Titans Second League
+35,18,32995,Emil Rolfes,2936903,PHSOB 3,,PHSOB 3,1193,2,0,0,0,0,2,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-36,18,32995,Ryan Rossouw,2936911,PHSOB 3,1193,,PHSOB 3,0,2,0,0,0,2,Titans Second League
+36,18,32995,Ryan Rossouw,2936911,PHSOB 3,,PHSOB 3,1193,0,2,0,0,0,2,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-37,18,32995,Adriaan Ferreira,2936919,PHSOB 3,1193,,PHSOB 3,2,0,0,0,0,2,Titans Second League
+37,18,32995,Adriaan Ferreira,2936919,PHSOB 3,,PHSOB 3,1193,2,0,0,0,0,2,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-38,18,32995,Andre Meintjes IV,2985799,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,2,0,0,0,0,2,Titans Second League
+38,18,32995,Andre Meintjes IV,2985799,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,2,0,0,0,0,2,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-39,18,32995,Johan Pansegrouw,2985803,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,2,0,0,0,0,2,Titans Second League
+39,18,32995,Johan Pansegrouw,2985803,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,2,0,0,0,0,2,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-40,18,32995,Juan Van den berg,2987480,SINOVILLE 4,1200,,SINOVILLE 4,2,0,0,0,0,2,Titans Second League
+40,18,32995,Juan Van den berg,2987480,SINOVILLE 4,,SINOVILLE 4,1200,2,0,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-41,18,32995,Kofi Essel-mensah,2987529,TUKS 6,1861,,TUKS 6,2,0,0,0,0,2,Titans Second League
+41,18,32995,Kofi Essel-mensah,2987529,TUKS 6,,TUKS 6,1861,2,0,0,0,0,2,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-42,18,32995,Jacques Nel,2987580,CBCOB 3,1196,,CBCOB 3,2,0,0,0,0,2,Titans Second League
+42,18,32995,Jacques Nel,2987580,CBCOB 3,,CBCOB 3,1196,2,0,0,0,0,2,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-43,18,32995,Craig Swanepoel,3018225,TUT 3,1197,,TUT 3,2,0,0,0,0,2,Titans Second League
+43,18,32995,Craig Swanepoel,3018225,TUT 3,,TUT 3,1197,2,0,0,0,0,2,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-44,18,32995,Barend Huyzer,3018233,TUT 3,1197,,TUT 3,1,1,0,0,0,2,Titans Second League
+44,18,32995,Barend Huyzer,3018233,TUT 3,,TUT 3,1197,1,1,0,0,0,2,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-45,18,32995,Wayne Scott,3056109,CBCOB 3,1196,,CBCOB 3,2,0,0,0,0,2,Titans Second League
+45,18,32995,Wayne Scott,3056109,CBCOB 3,,CBCOB 3,1196,2,0,0,0,0,2,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-46,18,32995,Paul Gouws,3056110,CBCOB 3,1196,,CBCOB 3,2,0,0,0,0,2,Titans Second League
+46,18,32995,Paul Gouws,3056110,CBCOB 3,,CBCOB 3,1196,2,0,0,0,0,2,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-47,18,32995,Louniel Prins,3056137,SINOVILLE 4,1200,,SINOVILLE 4,0,2,0,0,0,2,Titans Second League
+47,18,32995,Louniel Prins,3056137,SINOVILLE 4,,SINOVILLE 4,1200,0,2,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-48,18,32995,Duan St Arnaud,3145215,PHSOB 3,1193,,PHSOB 3,2,0,0,0,0,2,Titans Second League
+48,18,32995,Duan St Arnaud,3145215,PHSOB 3,,PHSOB 3,1193,2,0,0,0,0,2,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-49,18,32995,Berno Klopper,3180553,SINOVILLE 3,1194,,SINOVILLE 3,2,0,0,0,0,2,Titans Second League
+49,18,32995,Berno Klopper,3180553,SINOVILLE 3,,SINOVILLE 3,1194,2,0,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-50,18,32995,Berno Klopper,3180553,SINOVILLE 4,1200,,SINOVILLE 4,2,0,0,0,0,2,Titans Second League
+50,18,32995,Berno Klopper,3180553,SINOVILLE 4,,SINOVILLE 4,1200,2,0,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-51,18,32995,Jean Caudron,3180555,SINOVILLE 4,1200,,SINOVILLE 4,2,0,0,0,0,2,Titans Second League
+51,18,32995,Jean Caudron,3180555,SINOVILLE 4,,SINOVILLE 4,1200,2,0,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-52,18,32995,JJ Du Toit,3226765,SINOVILLE 4,1200,,SINOVILLE 4,2,0,0,0,0,2,Titans Second League
+52,18,32995,JJ Du Toit,3226765,SINOVILLE 4,,SINOVILLE 4,1200,2,0,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-53,18,32995,Xander Venter,3229695,SINOVILLE 3,1194,,SINOVILLE 3,2,0,0,0,0,2,Titans Second League
+53,18,32995,Xander Venter,3229695,SINOVILLE 3,,SINOVILLE 3,1194,2,0,0,0,0,2,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-54,18,32995,Playa2 Cbc,3255331,CBCOB 3,1196,,CBCOB 3,2,0,0,0,0,2,Titans Second League
+54,18,32995,Playa2 Cbc,3255331,CBCOB 3,,CBCOB 3,1196,2,0,0,0,0,2,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-55,18,32995,Adriaan Venter,3673677,CBCOB 3,1196,,CBCOB 3,2,0,0,0,0,2,Titans Second League
+55,18,32995,Adriaan Venter,3673677,CBCOB 3,,CBCOB 3,1196,2,0,0,0,0,2,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-56,18,32995,Tiaan Lotter,2934784,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,1,0,2,Titans Second League
+56,18,32995,Tiaan Lotter,2934784,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,1,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-57,18,32995,Marius Bornman,2936833,TUKS 5,1860,,TUKS 5,1,0,1,0,0,2,Titans Second League
+57,18,32995,Marius Bornman,2936833,TUKS 5,,TUKS 5,1860,1,0,1,0,0,2,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-58,18,32995,Nico Kruger,2936834,TUKS 5,1860,,TUKS 5,1,0,1,0,0,2,Titans Second League
+58,18,32995,Nico Kruger,2936834,TUKS 5,,TUKS 5,1860,1,0,1,0,0,2,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-59,18,32995,Steven Meyburgh,2937220,PHSOB 3,1193,,PHSOB 3,1,0,1,0,0,2,Titans Second League
+59,18,32995,Steven Meyburgh,2937220,PHSOB 3,,PHSOB 3,1193,1,0,1,0,0,2,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-60,18,32995,Reynier Swart,2985798,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,1,0,0,0,1,2,Titans Second League
+60,18,32995,Reynier Swart,2985798,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,1,0,0,0,1,2,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-61,18,32995,Bradley Wright,2985802,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,1,0,0,1,2,Titans Second League
+61,18,32995,Bradley Wright,2985802,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,1,0,0,1,2,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-62,18,32995,Anton Stassen,3069496,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,1,0,2,Titans Second League
+62,18,32995,Anton Stassen,3069496,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,1,0,2,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-63,18,32995,Latir Grey-Johnson,3018351,TUKS 6,1861,,TUKS 6,0,0,0,2,0,2,Titans Second League
+63,18,32995,Latir Grey-Johnson,3018351,TUKS 6,,TUKS 6,1861,0,0,0,2,0,2,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-64,18,32995,Abbas Mohammad,1082990,POLICE 3,1201,,POLICE 3,1,0,0,0,0,1,Titans Second League
+64,18,32995,Abbas Mohammad,1082990,POLICE 3,,POLICE 3,1201,1,0,0,0,0,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-65,18,32995,Amin Qasim,1439806,POLICE 3,1201,,POLICE 3,1,0,0,0,0,1,Titans Second League
+65,18,32995,Amin Qasim,1439806,POLICE 3,,POLICE 3,1201,1,0,0,0,0,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-66,18,32995,Danish Khan,1636074,POLICE 3,1201,,POLICE 3,1,0,0,0,0,1,Titans Second League
+66,18,32995,Danish Khan,1636074,POLICE 3,,POLICE 3,1201,1,0,0,0,0,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-67,18,32995,Ryan Kruger,2698181,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+67,18,32995,Ryan Kruger,2698181,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-68,18,32995,Aidan Lakmeeharan,2934847,TUKS 6,1861,,TUKS 6,1,0,0,0,0,1,Titans Second League
+68,18,32995,Aidan Lakmeeharan,2934847,TUKS 6,,TUKS 6,1861,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-69,18,32995,Rudi Loibner,2935397,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+69,18,32995,Rudi Loibner,2935397,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-70,18,32995,Anton Stassen,2936729,SINOVILLE 3,1194,,SINOVILLE 3,0,1,0,0,0,1,Titans Second League
+70,18,32995,Anton Stassen,2936729,SINOVILLE 3,,SINOVILLE 3,1194,0,1,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-71,18,32995,Wiehan Nel,2936753,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+71,18,32995,Wiehan Nel,2936753,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-72,18,32995,Jaco de Vos,2936844,TUKS 5,1860,,TUKS 5,1,0,0,0,0,1,Titans Second League
+72,18,32995,Jaco de Vos,2936844,TUKS 5,,TUKS 5,1860,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-73,18,32995,Erik Hartman,2936852,TUKS 6,1861,,TUKS 6,1,0,0,0,0,1,Titans Second League
+73,18,32995,Erik Hartman,2936852,TUKS 6,,TUKS 6,1861,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-74,18,32995,Joe Vickery,2936854,TUKS 6,1861,,TUKS 6,0,1,0,0,0,1,Titans Second League
+74,18,32995,Joe Vickery,2936854,TUKS 6,,TUKS 6,1861,0,1,0,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-75,18,32995,Kieran Anderson,2936859,TUKS 6,1861,,TUKS 6,1,0,0,0,0,1,Titans Second League
+75,18,32995,Kieran Anderson,2936859,TUKS 6,,TUKS 6,1861,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-76,18,32995,Dylan Howe-Dreyer,2936902,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+76,18,32995,Dylan Howe-Dreyer,2936902,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-77,18,32995,Jos Grove,2936905,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+77,18,32995,Jos Grove,2936905,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-78,18,32995,Michael Boltman,2936907,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+78,18,32995,Michael Boltman,2936907,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-79,18,32995,Pieter Pretorius,2936910,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+79,18,32995,Pieter Pretorius,2936910,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-80,18,32995,Matt Rogerson,2936914,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+80,18,32995,Matt Rogerson,2936914,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-81,18,32995,Keaton Steenkamp,2944947,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+81,18,32995,Keaton Steenkamp,2944947,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-82,18,32995,Keaton Steenkamp,2944947,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+82,18,32995,Keaton Steenkamp,2944947,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-83,18,32995,Manie de Beer,2947307,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+83,18,32995,Manie de Beer,2947307,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-84,18,32995,Muhammad Qasim Muhammad,2973875,POLICE 3,1201,,POLICE 3,0,1,0,0,0,1,Titans Second League
+84,18,32995,Muhammad Qasim Muhammad,2973875,POLICE 3,,POLICE 3,1201,0,1,0,0,0,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-85,18,32995,Jacques Joubert,2985795,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,1,0,0,0,0,1,Titans Second League
+85,18,32995,Jacques Joubert,2985795,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,1,0,0,0,0,1,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-86,18,32995,Zander Jordaan,2987471,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+86,18,32995,Zander Jordaan,2987471,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-87,18,32995,Wian Nel,2987474,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+87,18,32995,Wian Nel,2987474,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-88,18,32995,Juan Van den berg,2987480,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+88,18,32995,Juan Van den berg,2987480,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-89,18,32995,Conrath Meiring,2987575,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+89,18,32995,Conrath Meiring,2987575,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-90,18,32995,Karel Verhoef,2987576,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+90,18,32995,Karel Verhoef,2987576,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-91,18,32995,MJ Gouws,2990919,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+91,18,32995,MJ Gouws,2990919,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-92,18,32995,Samashan Naidoo,2990928,TUKS 5,1860,,TUKS 5,1,0,0,0,0,1,Titans Second League
+92,18,32995,Samashan Naidoo,2990928,TUKS 5,,TUKS 5,1860,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-93,18,32995,Lourens Pieterse,3003046,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,1,0,0,0,1,Titans Second League
+93,18,32995,Lourens Pieterse,3003046,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,1,0,0,0,1,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-94,18,32995,Bradley Joynt,3015414,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,1,0,0,0,0,1,Titans Second League
+94,18,32995,Bradley Joynt,3015414,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,1,0,0,0,0,1,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-95,18,32995,Felix le Roux,3018176,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+95,18,32995,Felix le Roux,3018176,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-96,18,32995,Jeandre Roux,3018228,TUT 3,1197,,TUT 3,1,0,0,0,0,1,Titans Second League
+96,18,32995,Jeandre Roux,3018228,TUT 3,,TUT 3,1197,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-97,18,32995,Stefan Grobler,3018230,TUT 3,1197,,TUT 3,1,0,0,0,0,1,Titans Second League
+97,18,32995,Stefan Grobler,3018230,TUT 3,,TUT 3,1197,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-98,18,32995,Dewald Basson,3018234,TUT 3,1197,,TUT 3,0,1,0,0,0,1,Titans Second League
+98,18,32995,Dewald Basson,3018234,TUT 3,,TUT 3,1197,0,1,0,0,0,1,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-99,18,32995,Bruce Crossey,3018342,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+99,18,32995,Bruce Crossey,3018342,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-100,18,32995,Caleb Eckard,3018344,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+100,18,32995,Caleb Eckard,3018344,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-101,18,32995,Deon Van Huyssteen,3018345,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+101,18,32995,Deon Van Huyssteen,3018345,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-102,18,32995,André Botes,3018347,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+102,18,32995,André Botes,3018347,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-103,18,32995,Bonolo Khuzwayo,3018350,TUKS 6,1861,,TUKS 6,1,0,0,0,0,1,Titans Second League
+103,18,32995,Bonolo Khuzwayo,3018350,TUKS 6,,TUKS 6,1861,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-104,18,32995,JP Roets,3031810,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+104,18,32995,JP Roets,3031810,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-105,18,32995,Johan Feuth,3056115,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+105,18,32995,Johan Feuth,3056115,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-106,18,32995,Ettienne Du Toit,3056134,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+106,18,32995,Ettienne Du Toit,3056134,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-107,18,32995,Stanley Fabri,3056139,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+107,18,32995,Stanley Fabri,3056139,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-108,18,32995,Zandre Nel,3056622,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+108,18,32995,Zandre Nel,3056622,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-109,18,32995,Brendan Freiser,3069550,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+109,18,32995,Brendan Freiser,3069550,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-110,18,32995,Micheal van der Westhuizen,3069551,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+110,18,32995,Micheal van der Westhuizen,3069551,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-111,18,32995,James Nelson,3145210,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+111,18,32995,James Nelson,3145210,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-112,18,32995,Pieter Smit,3145212,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+112,18,32995,Pieter Smit,3145212,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-113,18,32995,Khumo Tlhoaela,3145213,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+113,18,32995,Khumo Tlhoaela,3145213,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-114,18,32995,Mike Brink,3145217,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+114,18,32995,Mike Brink,3145217,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-115,18,32995,Mark Bekker,3146406,TUT 3,1197,,TUT 3,1,0,0,0,0,1,Titans Second League
+115,18,32995,Mark Bekker,3146406,TUT 3,,TUT 3,1197,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-116,18,32995,Luca Tuks 6,3163550,TUKS 6,1861,,TUKS 6,1,0,0,0,0,1,Titans Second League
+116,18,32995,Luca Tuks 6,3163550,TUKS 6,,TUKS 6,1861,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-117,18,32995,Aubery Smit,3180561,PHSOB 3,1193,,PHSOB 3,1,0,0,0,0,1,Titans Second League
+117,18,32995,Aubery Smit,3180561,PHSOB 3,,PHSOB 3,1193,1,0,0,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-118,18,32995,Mosleh Uddin,3226767,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+118,18,32995,Mosleh Uddin,3226767,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-119,18,32995,George Chibweza,3229703,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+119,18,32995,George Chibweza,3229703,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-120,18,32995,Hossin Rony,3242450,SINOVILLE 4,1200,,SINOVILLE 4,0,1,0,0,0,1,Titans Second League
+120,18,32995,Hossin Rony,3242450,SINOVILLE 4,,SINOVILLE 4,1200,0,1,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-121,18,32995,Playa3 Cbc,3255332,CBCOB 3,1196,,CBCOB 3,1,0,0,0,0,1,Titans Second League
+121,18,32995,Playa3 Cbc,3255332,CBCOB 3,,CBCOB 3,1196,1,0,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-122,18,32995,Playa4 Cbc,3255333,CBCOB 3,1196,,CBCOB 3,0,1,0,0,0,1,Titans Second League
+122,18,32995,Playa4 Cbc,3255333,CBCOB 3,,CBCOB 3,1196,0,1,0,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-123,18,32995,Eugene Joubert,3257327,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+123,18,32995,Eugene Joubert,3257327,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-124,18,32995,Andre Van wyk,3266939,TUKS 5,1860,,TUKS 5,1,0,0,0,0,1,Titans Second League
+124,18,32995,Andre Van wyk,3266939,TUKS 5,,TUKS 5,1860,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-125,18,32995,Jorich Van Schalkwyk,3267057,SINOVILLE 4,1200,,SINOVILLE 4,1,0,0,0,0,1,Titans Second League
+125,18,32995,Jorich Van Schalkwyk,3267057,SINOVILLE 4,,SINOVILLE 4,1200,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-126,18,32995,Nicky van Mollendorf,3277375,TUT 3,1197,,TUT 3,1,0,0,0,0,1,Titans Second League
+126,18,32995,Nicky van Mollendorf,3277375,TUT 3,,TUT 3,1197,1,0,0,0,0,1,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-127,18,32995,Jorich van Schalkwyk,3277435,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+127,18,32995,Jorich van Schalkwyk,3277435,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-128,18,32995,Sean Povey,3277438,SINOVILLE 3,1194,,SINOVILLE 3,1,0,0,0,0,1,Titans Second League
+128,18,32995,Sean Povey,3277438,SINOVILLE 3,,SINOVILLE 3,1194,1,0,0,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-129,18,32995,Stephen van den Berg,2936843,TUKS 5,1860,,TUKS 5,0,0,0,0,1,1,Titans Second League
+129,18,32995,Stephen van den Berg,2936843,TUKS 5,,TUKS 5,1860,0,0,0,0,1,1,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-130,18,32995,Hugo Pretorius,2936915,PHSOB 3,1193,,PHSOB 3,0,0,1,0,0,1,Titans Second League
+130,18,32995,Hugo Pretorius,2936915,PHSOB 3,,PHSOB 3,1193,0,0,1,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-131,18,32995,Muhammad Adil Khan,2973879,POLICE 3,1201,,POLICE 3,0,0,1,0,0,1,Titans Second League
+131,18,32995,Muhammad Adil Khan,2973879,POLICE 3,,POLICE 3,1201,0,0,1,0,0,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-132,18,32995,Humayon Baig Mirza,2973881,POLICE 3,1201,,POLICE 3,0,0,0,0,1,1,Titans Second League
+132,18,32995,Humayon Baig Mirza,2973881,POLICE 3,,POLICE 3,1201,0,0,0,0,1,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-133,18,32995,JP Goosen,2987481,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,1,1,Titans Second League
+133,18,32995,JP Goosen,2987481,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,1,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-134,18,32995,Dylan Alberts,3018227,TUT 3,1197,,TUT 3,0,0,0,0,1,1,Titans Second League
+134,18,32995,Dylan Alberts,3018227,TUT 3,,TUT 3,1197,0,0,0,0,1,1,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-135,18,32995,Sana ullah Ula,3032044,POLICE 3,1201,,POLICE 3,0,0,1,0,0,1,Titans Second League
+135,18,32995,Sana ullah Ula,3032044,POLICE 3,,POLICE 3,1201,0,0,1,0,0,1,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-136,18,32995,Pippie Kemm,3033949,PHSOB 3,1193,,PHSOB 3,0,0,1,0,0,1,Titans Second League
+136,18,32995,Pippie Kemm,3033949,PHSOB 3,,PHSOB 3,1193,0,0,1,0,0,1,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-137,18,32995,Riaan Davel,3163488,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,1,1,Titans Second League
+137,18,32995,Riaan Davel,3163488,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,1,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-138,18,32995,Gian Tuks 6,3163548,TUKS 6,1861,,TUKS 6,0,0,1,0,0,1,Titans Second League
+138,18,32995,Gian Tuks 6,3163548,TUKS 6,,TUKS 6,1861,0,0,1,0,0,1,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-139,18,32995,Wian Munnik,3198244,SINOVILLE 4,1200,,SINOVILLE 4,0,0,1,0,0,1,Titans Second League
+139,18,32995,Wian Munnik,3198244,SINOVILLE 4,,SINOVILLE 4,1200,0,0,1,0,0,1,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-140,18,32995,Playa5 Cbc,3255334,CBCOB 3,1196,,CBCOB 3,0,0,1,0,0,1,Titans Second League
+140,18,32995,Playa5 Cbc,3255334,CBCOB 3,,CBCOB 3,1196,0,0,1,0,0,1,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-141,18,32995,Dian Botha,2934759,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+141,18,32995,Dian Botha,2934759,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-142,18,32995,Dian Botha,2934759,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+142,18,32995,Dian Botha,2934759,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-143,18,32995,Dries Van der Lith,2934771,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+143,18,32995,Dries Van der Lith,2934771,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-144,18,32995,Dries Van der Lith,2934771,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+144,18,32995,Dries Van der Lith,2934771,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-145,18,32995,Tiaan Lotter,2934784,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+145,18,32995,Tiaan Lotter,2934784,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-146,18,32995,Jeandre van Molendorff,2936736,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+146,18,32995,Jeandre van Molendorff,2936736,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-147,18,32995,Ruan Breytenbach,2936745,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+147,18,32995,Ruan Breytenbach,2936745,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-148,18,32995,Ivan Bekker,2936839,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+148,18,32995,Ivan Bekker,2936839,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-149,18,32995,Ivan Venter,2936845,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+149,18,32995,Ivan Venter,2936845,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-150,18,32995,Martin Childs-Hurn,2936849,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+150,18,32995,Martin Childs-Hurn,2936849,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-151,18,32995,Andreas De Lange,2936853,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+151,18,32995,Andreas De Lange,2936853,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-152,18,32995,Hlomla Henna,2936855,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+152,18,32995,Hlomla Henna,2936855,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-153,18,32995,Puseletso Mogofe,2936856,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+153,18,32995,Puseletso Mogofe,2936856,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-154,18,32995,Mawanda Nzimakhwe,2936857,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+154,18,32995,Mawanda Nzimakhwe,2936857,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-155,18,32995,Janko Roets,2936858,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+155,18,32995,Janko Roets,2936858,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-156,18,32995,Jahnu Parvataneni,2936860,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+156,18,32995,Jahnu Parvataneni,2936860,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-157,18,32995,Kutloano Maseko,2936861,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+157,18,32995,Kutloano Maseko,2936861,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-158,18,32995,Dyllan Tweedy,2936864,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+158,18,32995,Dyllan Tweedy,2936864,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-159,18,32995,Tavish Seebran Ramthol,2936867,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+159,18,32995,Tavish Seebran Ramthol,2936867,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-160,18,32995,Dian Van der Walt,2936868,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+160,18,32995,Dian Van der Walt,2936868,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-161,18,32995,Dean Dyer,2936901,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+161,18,32995,Dean Dyer,2936901,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-162,18,32995,Kevin Pretorius,2936906,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+162,18,32995,Kevin Pretorius,2936906,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-163,18,32995,Michael Stoop,2936908,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+163,18,32995,Michael Stoop,2936908,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-164,18,32995,Murray White,2936913,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+164,18,32995,Murray White,2936913,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-165,18,32995,Manie de Beer,2947307,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+165,18,32995,Manie de Beer,2947307,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-166,18,32995,Justin Mostert,2973874,POLICE 3,1201,,POLICE 3,0,0,0,0,0,0,Titans Second League
+166,18,32995,Justin Mostert,2973874,POLICE 3,,POLICE 3,1201,0,0,0,0,0,0,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-167,18,32995,Kashif Ghuman,2973876,POLICE 3,1201,,POLICE 3,0,0,0,0,0,0,Titans Second League
+167,18,32995,Kashif Ghuman,2973876,POLICE 3,,POLICE 3,1201,0,0,0,0,0,0,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-168,18,32995,Nasir Iqbal,2973877,POLICE 3,1201,,POLICE 3,0,0,0,0,0,0,Titans Second League
+168,18,32995,Nasir Iqbal,2973877,POLICE 3,,POLICE 3,1201,0,0,0,0,0,0,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-169,18,32995,Waseem Ullah,2973878,POLICE 3,1201,,POLICE 3,0,0,0,0,0,0,Titans Second League
+169,18,32995,Waseem Ullah,2973878,POLICE 3,,POLICE 3,1201,0,0,0,0,0,0,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-170,18,32995,Anton Behr,2973880,POLICE 3,1201,,POLICE 3,0,0,0,0,0,0,Titans Second League
+170,18,32995,Anton Behr,2973880,POLICE 3,,POLICE 3,1201,0,0,0,0,0,0,Titans Second League
 ,18,32995,POLICE 3,,,,,,,,,,,,Titans Second League
-171,18,32995,Hein Smit,2985797,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+171,18,32995,Hein Smit,2985797,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-172,18,32995,Vernon van de Merwe,2985800,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+172,18,32995,Vernon van de Merwe,2985800,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-173,18,32995,Stefan Strydom,2985833,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+173,18,32995,Stefan Strydom,2985833,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-174,18,32995,Heinrich Hamman,2987472,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+174,18,32995,Heinrich Hamman,2987472,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-175,18,32995,Dylan Van wyk,2987473,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+175,18,32995,Dylan Van wyk,2987473,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-176,18,32995,Stefan Schutte,2987475,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+176,18,32995,Stefan Schutte,2987475,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-177,18,32995,Hendre Du toit,2987477,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+177,18,32995,Hendre Du toit,2987477,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-178,18,32995,Hendre Du toit,2987477,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+178,18,32995,Hendre Du toit,2987477,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-179,18,32995,Louniel Brits,2987479,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+179,18,32995,Louniel Brits,2987479,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-180,18,32995,Louniel Brits,2987479,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+180,18,32995,Louniel Brits,2987479,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-181,18,32995,Jacques Vosloo,2987525,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+181,18,32995,Jacques Vosloo,2987525,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-182,18,32995,Tom Dixon,2987526,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+182,18,32995,Tom Dixon,2987526,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-183,18,32995,Varun Cherian,2987527,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+183,18,32995,Varun Cherian,2987527,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-184,18,32995,David Ewen,2987528,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+184,18,32995,David Ewen,2987528,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-185,18,32995,Muhammed Moosa,2987530,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+185,18,32995,Muhammed Moosa,2987530,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-186,18,32995,Tiaan Marais,2987532,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+186,18,32995,Tiaan Marais,2987532,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-187,18,32995,Oliver Beauclerk,2987533,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+187,18,32995,Oliver Beauclerk,2987533,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-188,18,32995,Mohammed Arbaz,2987534,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+188,18,32995,Mohammed Arbaz,2987534,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-189,18,32995,Luke Mogagene,2987535,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+189,18,32995,Luke Mogagene,2987535,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-190,18,32995,Zian Stoop,2987574,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+190,18,32995,Zian Stoop,2987574,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-191,18,32995,Dylan Kotze,2987579,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+191,18,32995,Dylan Kotze,2987579,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-192,18,32995,Jo Veldman,2987581,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+192,18,32995,Jo Veldman,2987581,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-193,18,32995,Matthew Bottham,2987582,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+193,18,32995,Matthew Bottham,2987582,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-194,18,32995,Kobus Gouws,2990920,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+194,18,32995,Kobus Gouws,2990920,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-195,18,32995,Stephan Lotter,2990921,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+195,18,32995,Stephan Lotter,2990921,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-196,18,32995,Wian Munnik,2990925,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+196,18,32995,Wian Munnik,2990925,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-197,18,32995,Royes Auret,3003044,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+197,18,32995,Royes Auret,3003044,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-198,18,32995,Ethan McMean,3003045,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+198,18,32995,Ethan McMean,3003045,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-199,18,32995,Jason Gillard,3003090,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+199,18,32995,Jason Gillard,3003090,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-200,18,32995,Jason Gillard,3003090,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+200,18,32995,Jason Gillard,3003090,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-201,18,32995,Gerrie Viljoen,3015413,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+201,18,32995,Gerrie Viljoen,3015413,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-202,18,32995,Josh Brady,3018177,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+202,18,32995,Josh Brady,3018177,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-203,18,32995,Charl Prinsloo,3018226,TUT 3,1197,,TUT 3,0,0,0,0,0,0,Titans Second League
+203,18,32995,Charl Prinsloo,3018226,TUT 3,,TUT 3,1197,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-204,18,32995,Jean Bezuidenhout,3018229,TUT 3,1197,,TUT 3,0,0,0,0,0,0,Titans Second League
+204,18,32995,Jean Bezuidenhout,3018229,TUT 3,,TUT 3,1197,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-205,18,32995,David Fourie,3018346,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+205,18,32995,David Fourie,3018346,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-206,18,32995,Thoriso Dibatana,3018349,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+206,18,32995,Thoriso Dibatana,3018349,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-207,18,32995,Eddie Ndlovu,3031803,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+207,18,32995,Eddie Ndlovu,3031803,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-208,18,32995,Gregg Gilson,3031804,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+208,18,32995,Gregg Gilson,3031804,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-209,18,32995,Zandré Nel,3031806,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+209,18,32995,Zandré Nel,3031806,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-210,18,32995,Francios Botha,3031809,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+210,18,32995,Francios Botha,3031809,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-211,18,32995,Henco Erasmus,3031812,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+211,18,32995,Henco Erasmus,3031812,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-212,18,32995,Maans Roubaix,3031813,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+212,18,32995,Maans Roubaix,3031813,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-213,18,32995,Lucky Moshoati,3031823,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+213,18,32995,Lucky Moshoati,3031823,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-214,18,32995,Stan Skinner,3031824,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+214,18,32995,Stan Skinner,3031824,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-215,18,32995,Erik Van Deventer,3033825,TUT 3,1197,,TUT 3,0,0,0,0,0,0,Titans Second League
+215,18,32995,Erik Van Deventer,3033825,TUT 3,,TUT 3,1197,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-216,18,32995,Rihann Van der Merwe,3033826,TUT 3,1197,,TUT 3,0,0,0,0,0,0,Titans Second League
+216,18,32995,Rihann Van der Merwe,3033826,TUT 3,,TUT 3,1197,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-217,18,32995,Zander Vd Mescht,3033948,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+217,18,32995,Zander Vd Mescht,3033948,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-218,18,32995,Evert Grove,3045038,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+218,18,32995,Evert Grove,3045038,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-219,18,32995,Frikkie Tuks6,3045039,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+219,18,32995,Frikkie Tuks6,3045039,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-220,18,32995,Preston Tuks6,3045040,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+220,18,32995,Preston Tuks6,3045040,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-221,18,32995,Jacques Erasmus,3056082,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+221,18,32995,Jacques Erasmus,3056082,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-222,18,32995,Gerrald Gouws,3056111,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+222,18,32995,Gerrald Gouws,3056111,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-223,18,32995,Rowan Poole,3056112,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+223,18,32995,Rowan Poole,3056112,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-224,18,32995,Derrick Cremer,3056113,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+224,18,32995,Derrick Cremer,3056113,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-225,18,32995,Stephan Stoltz,3056114,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+225,18,32995,Stephan Stoltz,3056114,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-226,18,32995,Stefan van Staden,3056136,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+226,18,32995,Stefan van Staden,3056136,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-227,18,32995,Stanley Fabri,3056139,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+227,18,32995,Stanley Fabri,3056139,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-228,18,32995,Nicolai Bester,3056140,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+228,18,32995,Nicolai Bester,3056140,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-229,18,32995,Henco Pretorius,3056141,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+229,18,32995,Henco Pretorius,3056141,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-230,18,32995,Ruben Munnik,3056142,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+230,18,32995,Ruben Munnik,3056142,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-231,18,32995,Ruben Munnik,3056142,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+231,18,32995,Ruben Munnik,3056142,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-232,18,32995,Jayden Gordon,3056144,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+232,18,32995,Jayden Gordon,3056144,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-233,18,32995,MJ Kruger,3056984,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+233,18,32995,MJ Kruger,3056984,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-234,18,32995,Johan Broekman,3069548,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+234,18,32995,Johan Broekman,3069548,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-235,18,32995,Franco Ferns,3069549,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+235,18,32995,Franco Ferns,3069549,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-236,18,32995,Jonson Cbc,3069787,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+236,18,32995,Jonson Cbc,3069787,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-237,18,32995,Marinus Nel,3145211,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+237,18,32995,Marinus Nel,3145211,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-238,18,32995,Eddie Stevens,3145214,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+238,18,32995,Eddie Stevens,3145214,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-239,18,32995,Joel Duminy,3145216,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+239,18,32995,Joel Duminy,3145216,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-240,18,32995,Wayne Steyn,3146405,TUT 3,1197,,TUT 3,0,0,0,0,0,0,Titans Second League
+240,18,32995,Wayne Steyn,3146405,TUT 3,,TUT 3,1197,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-241,18,32995,Riaan Davel,3163488,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+241,18,32995,Riaan Davel,3163488,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-242,18,32995,Mlungisi Tuks 6,3163549,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+242,18,32995,Mlungisi Tuks 6,3163549,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-243,18,32995,Wynand De beer,3163551,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+243,18,32995,Wynand De beer,3163551,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-244,18,32995,Want V deventer,3180548,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+244,18,32995,Want V deventer,3180548,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-245,18,32995,Marne Weldhagen,3180550,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+245,18,32995,Marne Weldhagen,3180550,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-246,18,32995,Kai Trimpelmann,3180552,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+246,18,32995,Kai Trimpelmann,3180552,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-247,18,32995,Maritz Bezuidenhout,3180554,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+247,18,32995,Maritz Bezuidenhout,3180554,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-248,18,32995,Henko Affies,3180556,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+248,18,32995,Henko Affies,3180556,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-249,18,32995,Juandre Tuks 6,3180558,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+249,18,32995,Juandre Tuks 6,3180558,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-250,18,32995,Ewan Tuks 6,3180559,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+250,18,32995,Ewan Tuks 6,3180559,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-251,18,32995,Ruan Brenner,3180560,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+251,18,32995,Ruan Brenner,3180560,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-252,18,32995,Brenden PHSOB 3,3180562,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+252,18,32995,Brenden PHSOB 3,3180562,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-253,18,32995,Nico de Bruyn,3180581,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+253,18,32995,Nico de Bruyn,3180581,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-254,18,32995,Henro Bouwer,3180583,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+254,18,32995,Henro Bouwer,3180583,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-255,18,32995,Marnus Swanepoel,3180584,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+255,18,32995,Marnus Swanepoel,3180584,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-256,18,32995,JP Roets,3195753,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+256,18,32995,JP Roets,3195753,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-257,18,32995,Pieter Jansen van Rensburg,3198240,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+257,18,32995,Pieter Jansen van Rensburg,3198240,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-258,18,32995,Morgan Potgiter,3198242,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+258,18,32995,Morgan Potgiter,3198242,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-259,18,32995,Theuno Botha,3198243,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+259,18,32995,Theuno Botha,3198243,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-260,18,32995,Byron Slaughter,3226764,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+260,18,32995,Byron Slaughter,3226764,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-261,18,32995,JJ Du Toit,3226765,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+261,18,32995,JJ Du Toit,3226765,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-262,18,32995,Sean Povey,3226766,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+262,18,32995,Sean Povey,3226766,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-263,18,32995,Mosleh Uddin,3226767,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+263,18,32995,Mosleh Uddin,3226767,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-264,18,32995,Rudi Roets,3226769,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+264,18,32995,Rudi Roets,3226769,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-265,18,32995,Rudi Roets,3226769,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+265,18,32995,Rudi Roets,3226769,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-266,18,32995,Michael Du Plessis,3226770,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+266,18,32995,Michael Du Plessis,3226770,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-267,18,32995,Marco Rudolph,3229694,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+267,18,32995,Marco Rudolph,3229694,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-268,18,32995,Jean Coudron,3229696,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+268,18,32995,Jean Coudron,3229696,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-269,18,32995,Hassin Rony,3229698,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+269,18,32995,Hassin Rony,3229698,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-270,18,32995,Maans De Bruin,3229699,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+270,18,32995,Maans De Bruin,3229699,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-271,18,32995,Du Preez Prinsloo,3229700,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+271,18,32995,Du Preez Prinsloo,3229700,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-272,18,32995,Juan Matta,3229701,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+272,18,32995,Juan Matta,3229701,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-273,18,32995,Brandon Van Wyk,3231803,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+273,18,32995,Brandon Van Wyk,3231803,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-274,18,32995,Heinrich Odendaal,3242448,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+274,18,32995,Heinrich Odendaal,3242448,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-275,18,32995,Du Preez Prinsloo,3242451,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+275,18,32995,Du Preez Prinsloo,3242451,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-276,18,32995,Maans De Roubaix,3242452,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+276,18,32995,Maans De Roubaix,3242452,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-277,18,32995,Tumelo Sinoville,3242453,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+277,18,32995,Tumelo Sinoville,3242453,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-278,18,32995,Rhys Tuks6,3242941,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+278,18,32995,Rhys Tuks6,3242941,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-279,18,32995,Tihardt Kruger,3242942,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+279,18,32995,Tihardt Kruger,3242942,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-280,18,32995,Evan Tuks6,3243675,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+280,18,32995,Evan Tuks6,3243675,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-281,18,32995,Johan Pretorius,3255251,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+281,18,32995,Johan Pretorius,3255251,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-282,18,32995,Johanco Faihst,3255252,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+282,18,32995,Johanco Faihst,3255252,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-283,18,32995,Cecil Chitaka,3255253,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+283,18,32995,Cecil Chitaka,3255253,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-284,18,32995,Wian van Deventer,3255254,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+284,18,32995,Wian van Deventer,3255254,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-285,18,32995,Dieter Sinoville,3255255,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+285,18,32995,Dieter Sinoville,3255255,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-286,18,32995,Juandre Joubert,3255256,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+286,18,32995,Juandre Joubert,3255256,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-287,18,32995,Divan Behrens,3255257,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+287,18,32995,Divan Behrens,3255257,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-288,18,32995,Eddie Robenson,3255311,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+288,18,32995,Eddie Robenson,3255311,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-289,18,32995,Tyler Irene,3255327,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+289,18,32995,Tyler Irene,3255327,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-290,18,32995,Botha Irene,3255328,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+290,18,32995,Botha Irene,3255328,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-291,18,32995,Phillp Irene,3255329,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+291,18,32995,Phillp Irene,3255329,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
-292,18,32995,Playa1 Cbc,3255330,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+292,18,32995,Playa1 Cbc,3255330,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-293,18,32995,Playa6 Cbc,3255335,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+293,18,32995,Playa6 Cbc,3255335,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-294,18,32995,Playa7 Cbc,3255336,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+294,18,32995,Playa7 Cbc,3255336,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-295,18,32995,Playa8 Cbc,3255337,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+295,18,32995,Playa8 Cbc,3255337,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-296,18,32995,Playa9 Cbc,3255338,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+296,18,32995,Playa9 Cbc,3255338,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-297,18,32995,Playa10 Cbc,3255339,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+297,18,32995,Playa10 Cbc,3255339,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-298,18,32995,Playa11 Cbc,3255340,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+298,18,32995,Playa11 Cbc,3255340,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-299,18,32995,Dieter Munnik,3255532,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+299,18,32995,Dieter Munnik,3255532,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-300,18,32995,Danie Doubell,3257322,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+300,18,32995,Danie Doubell,3257322,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-301,18,32995,Jaco Brits,3257323,PHSOB 3,1193,,PHSOB 3,0,0,0,0,0,0,Titans Second League
+301,18,32995,Jaco Brits,3257323,PHSOB 3,,PHSOB 3,1193,0,0,0,0,0,0,Titans Second League
 ,18,32995,PHSOB 3,,,,,,,,,,,,Titans Second League
-302,18,32995,Divan Behrens,3257324,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+302,18,32995,Divan Behrens,3257324,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-303,18,32995,Wian van Deventer,3257325,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+303,18,32995,Wian van Deventer,3257325,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-304,18,32995,Charl Prinsloo,3257326,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+304,18,32995,Charl Prinsloo,3257326,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-305,18,32995,Jeandre Joubert,3257328,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+305,18,32995,Jeandre Joubert,3257328,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-306,18,32995,Braam Sinoville,3257329,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+306,18,32995,Braam Sinoville,3257329,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-307,18,32995,Cornel Schnitter,3266896,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+307,18,32995,Cornel Schnitter,3266896,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-308,18,32995,Logan Almeida,3266897,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+308,18,32995,Logan Almeida,3266897,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-309,18,32995,Gershwin Reid,3266898,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+309,18,32995,Gershwin Reid,3266898,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-310,18,32995,Lehlohonolo Moshoati,3266899,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+310,18,32995,Lehlohonolo Moshoati,3266899,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-311,18,32995,Riaan Von bentheim,3266940,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+311,18,32995,Riaan Von bentheim,3266940,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-312,18,32995,Ivan Bekker,3266941,TUKS 5,1860,,TUKS 5,0,0,0,0,0,0,Titans Second League
+312,18,32995,Ivan Bekker,3266941,TUKS 5,,TUKS 5,1860,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 5,,,,,,,,,,,,Titans Second League
-313,18,32995,Willem Cbc3,3266943,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+313,18,32995,Willem Cbc3,3266943,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-314,18,32995,Chris Cbc3,3266944,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+314,18,32995,Chris Cbc3,3266944,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-315,18,32995,Shaun Muirhead,3266945,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+315,18,32995,Shaun Muirhead,3266945,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-316,18,32995,Bruce Cbc3,3266947,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+316,18,32995,Bruce Cbc3,3266947,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-317,18,32995,Devin Cbc3,3266948,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+317,18,32995,Devin Cbc3,3266948,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-318,18,32995,Gershwin Reid,3266949,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+318,18,32995,Gershwin Reid,3266949,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-319,18,32995,Stephan Van den berg,3266950,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+319,18,32995,Stephan Van den berg,3266950,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-320,18,32995,Cornel Cbc3,3266951,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+320,18,32995,Cornel Cbc3,3266951,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-321,18,32995,Logan Almeida,3266952,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+321,18,32995,Logan Almeida,3266952,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-322,18,32995,Michael Cbc3,3266953,CBCOB 3,1196,,CBCOB 3,0,0,0,0,0,0,Titans Second League
+322,18,32995,Michael Cbc3,3266953,CBCOB 3,,CBCOB 3,1196,0,0,0,0,0,0,Titans Second League
 ,18,32995,CBCOB 3,,,,,,,,,,,,Titans Second League
-323,18,32995,Wian Ruthven,3267056,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+323,18,32995,Wian Ruthven,3267056,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-324,18,32995,JP Roetz,3267058,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+324,18,32995,JP Roetz,3267058,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-325,18,32995,Edwin Xx,3267059,TUT 3,1197,,TUT 3,0,0,0,0,0,0,Titans Second League
+325,18,32995,Edwin Xx,3267059,TUT 3,,TUT 3,1197,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUT 3,,,,,,,,,,,,Titans Second League
-326,18,32995,Pusoletso Ethan,3277434,TUKS 6,1861,,TUKS 6,0,0,0,0,0,0,Titans Second League
+326,18,32995,Pusoletso Ethan,3277434,TUKS 6,,TUKS 6,1861,0,0,0,0,0,0,Titans Second League
 ,18,32995,TUKS 6,,,,,,,,,,,,Titans Second League
-327,18,32995,Dylan van Wyk,3277436,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+327,18,32995,Dylan van Wyk,3277436,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-328,18,32995,Davie Fabri,3277437,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+328,18,32995,Davie Fabri,3277437,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-329,18,32995,Byron Slaughter,3277439,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+329,18,32995,Byron Slaughter,3277439,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-330,18,32995,Gerhard Lock,3287439,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+330,18,32995,Gerhard Lock,3287439,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-331,18,32995,Jacques van Niekerk,3287440,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+331,18,32995,Jacques van Niekerk,3287440,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-332,18,32995,Luca Bauros,3287441,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+332,18,32995,Luca Bauros,3287441,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-333,18,32995,Luke Cannata,3287442,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+333,18,32995,Luke Cannata,3287442,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-334,18,32995,Ruan Breytenbach,3287444,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+334,18,32995,Ruan Breytenbach,3287444,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-335,18,32995,Morgan Potgieter,3287445,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+335,18,32995,Morgan Potgieter,3287445,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-336,18,32995,Damien Pringle,3287446,SINOVILLE 3,1194,,SINOVILLE 3,0,0,0,0,0,0,Titans Second League
+336,18,32995,Damien Pringle,3287446,SINOVILLE 3,,SINOVILLE 3,1194,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 3,,,,,,,,,,,,Titans Second League
-337,18,32995,Adam Cannata,3599539,SINOVILLE 4,1200,,SINOVILLE 4,0,0,0,0,0,0,Titans Second League
+337,18,32995,Adam Cannata,3599539,SINOVILLE 4,,SINOVILLE 4,1200,0,0,0,0,0,0,Titans Second League
 ,18,32995,SINOVILLE 4,,,,,,,,,,,,Titans Second League
-338,18,32995,Tiaan Dorfling,3693408,IRENE VILLAGERS 3,1195,,IRENE VILLAGERS 3,0,0,0,0,0,0,Titans Second League
+338,18,32995,Tiaan Dorfling,3693408,IRENE VILLAGERS 3,,IRENE VILLAGERS 3,1195,0,0,0,0,0,0,Titans Second League
 ,18,32995,IRENE VILLAGERS 3,,,,,,,,,,,,Titans Second League
